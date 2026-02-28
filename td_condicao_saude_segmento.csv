@@ -1,177 +1,197 @@
-"nu_diretriz","no_diretriz","co_cid","co_seq_diretriz","sg_pcdt","no_abreviado","no_diretriz_b","no_diretriz50","no_diretriz10","nu_idade_min","nu_idade_max","co_sigtap","st_rara","sg_tipo","co_cid_hash","ds_url","ds_publicacao","st_saude_mental","st_medicamento"
-"001",Acidente Vascular Cerebral Isquêmico Agudo,"I630,I631,I632,I633,I634,I635,I636,I638,I639,I650,I651,I652,I653,I658,I659,I660,I661,I662,I663,I664,I668,I669",21,AVI,avc_isquem,Trombólise no Acidente Vascular Cerebral (AVC) Isquêmico Agudo,Acidente Vascular Cerebral Isquêmico Agudo,AVCagudo,,,,0,pcdt,I630 I631 I632 I633 I634 I635 I636 I638 I639 I650 I651 I652 I653 I658 I659 I660 I661 I662 I663 I664 I668 I669,http://conitec.gov.br/images/Protocolos/Tromb--lise-no-Acidente-Vascular-Cerebral-Isqu--mico-Agudo.pdf,Portaria GM/MS nº 664 - 12/04/2012 (Publicada em 13/04/2012),0,1
-"002",Acne grave,"L700,L701,L708",1,ACN,acne,Isotretinoína no tratamento da acne grave,Acne grave,acne,,,,0,Protocolos,L700 L701 L708,http://conitec.gov.br/images/Protocolos/ProtocoloUso_Isotretinoina_2015.pdf,Portaria SAS/MS nº 1.159 - 18/11/2015 (Publicada em 19/11/2015),0,1
-"003",Acromegalia,E220,2,ACR,acromegali,Acromegalia,Acromegalia,Acromeg.,,,,1,pcdt,E220,http://conitec.gov.br/images/Protocolos/PCDT_Acromegalia.pdf,Portaria Conjunta SAS/SCTIE nº 02 - 07/01/2019 (Publicada em 14/01/2019). (Retificado em 12/04/2013),0,1
-"004",Adenocarcinoma de Próstata,"C61 ,D75 ,",42,PRO,c_prostata,Adenocarcinoma de Próstata,Adenocarcinoma de Próstata,A. Próst.,19,130,,0,ddt,C61 D75,http://conitec.gov.br/images/Protocolos/DDT/DDT_Adenocarcinoma_Prostata.pdf,Portaria SAS/MS nº 498 - 11/05/2016 (Publicada em 12/05/2016),0,1
-"005",Anemia Hemolítica Autoimune,"D590,D591,D460,D461,D467,D600,D608,D610,D611,D612,D613,D618,D70,Z948",9,AHA,anemia_hem,Anemia Hemolítica Autoimune,Anemia Hemolítica Autoimune,Anem. Hem,,,,0,pcdt,D590 D591,http://conitec.gov.br/images/Protocolos/PCDT_Anemia_Hemolitica_Autoimune_2018.pdf,Portaria Conjunta SAS/SCTIE/MS nº 27 - 26/11/2018 (Publicada em 10/12/2018),0,1
-"006",Anemia por Deficiência de Ferro,"D500,D508",8,FER,anemia_fer,Anemia por Deficiência de Ferro,Anemia por Deficiência de Ferro,Anem. Ferr,,,,0,pcdt,D500 D508,http://conitec.gov.br/images/Consultas/Relatorios/2014/pcdt_Anemia_DeficienciaFerro_2014.pdf,Portaria Conjunta SAS/MS nº 1.247 - 10/11/2014 (Publicada em 11/11/2014),0,1
-"007",Angioedema,D841,11,AC1,angiodema,Angioedema associado à deficiência de C1 esterase,Angioedema,Angioedema,,,,1,pcdt,D841,http://conitec.gov.br/images/Protocolos/pcdt_angioedema-deficincia-C1esterase_2016.pdf,Portaria Conjunta SAS/MS nº 880 - 12/07/2016 (Publicada em 15/07/2016),0,1
-"008",Aorta Torácica Descendente,I712,12,ATD,aorta_tora,Diretrizes Brasileiras para Utilização de Endoprótese em Aorta Torácica Descendente,Aorta Torácica Descendente,Aorta,,,,0,Diretrizes,I712,http://conitec.gov.br/images/Protocolos/Diretrizes/DiretrizBrasileira_EndoprotesedeAortaDescendente_2019.pdf,Portaria Conjunta SAS/SCTIE/MS nº 03 - 07/01/2019 (Publicada em 14/01/2019),0,1
-"009",Artrite Idiopática Juvenil,"M080,M081,M082,M083,M084,M088,M089",14,AIJ,artrite_ju,Artrite Idiopática Juvenil (AIJ),Artrite Idiopática Juvenil,AIJ,,,,0,pcdt,M080 M081 M082 M083 M084 M088 M089,http://conitec.gov.br/images/Protocolos/20210916_Portaria_Conjunta_16_PCDT_AReAIJ.pdf,Portaria Conjunta SAES/SCTIE/MS nº 16 - 03/09/2021,0,1
-"010",Artrite Psoríaca,"M070,M072,M073",15,APS,artrite_ps,Artrite Psoríaca,Artrite Psoríaca,Artr. Ps,,,,0,pcdt,M070 M072 M073,http://conitec.gov.br/images/Protocolos/MINUTA-Artrite-Psoriaca_publicadafevrereiro.2019.pdf,Portaria Conjunta SAES/SCTIE/MS nº 9 - 21/05/2021 (Publicada em 28/05/2021),0,1
-"011",Artrite Reativa,"M021,M023,M032,M036",16,ART,artrite_re,Artrite Reativa,Artrite Reativa,Artr. Reat,,,,1,pcdt,M023 M032 M036 M021,http://conitec.gov.br/images/Protocolos/20210428_PCDT_Artrite_Reativa.pdf,Portaria Conjunta SAES/SCTIE/MS nº 6 - 22/04/2021 (Publicada em 26/04/2021),0,1
-"012",Artrite Reumatoide,"M050,M051,M052,M053,M058,M060,M068",,ARU,,,,,,,,,,,,,,
-"013",Asma,"J450,J451,J458",18,ASM,asma,Asma,Asma,Asma,,,,0,pcdt,J450 J451 J458,http://conitec.gov.br/images/Protocolos/20210830_PCDT_Asma_PT14.pdf,Portaria Conjunta SAES/SCTIE/MS nº 14 - 24/08/2021 (Publicada em 27/08/2021),0,1
-"014",Atrofia Muscular Espinhal,"G120,G121",20,AME,atrofia,Atrofia Muscular Espinhal 5q Tipo 1,Atrofia Muscular Espinhal,Atrof. Mus,,,,1,pcdt,G120 G121,http://conitec.gov.br/images/Protocolos/20220201_PORTAL_Portaria_Conjunta_3_PCDT_AME_5q_Tipos_IeII.pdf,Portaria Conjunta SAES/SCTIE/MS nº 03 - 18/01/2022(Publicada em 31/01/2022),0,1
-"015",COVID-19,"B342,U04,U049,U071,U072",51,COV,covid_19,Diretrizes Brasileiras para Tratamento Hospitalar do Paciente com COVID-19,COVID-19,Covid,,,,0,Diretrizes,B342 U04 U049 U071 U072,http://conitec.gov.br/images/Protocolos/Diretrizes/20210629_Diretrizes-Covid-19_Capitulo1.pdf,Portaria SCTIE/MS nº 33 - 28/06/2021 (Publicada em 29/06/2021),0,1
-"016",Carcinoma Diferenciado de Tireoide,"C73 ,",,CDT,,,,,,,,,,,,,,
-"017",Carcinoma de Células Renais,"C64 ,",44,CRE,c_renal,Carcinoma de Células Renais,Carcinoma de Células Renais,C.Renais,,,,0,pcdt,C64,http://conitec.gov.br/images/Artigos_Publicacoes/ddt_Carcinoma-CelRenais_2014.pdf,"Portaria Nº 1.440, de 16 de dezembro de 2014",0,1
-"018",Carcinoma de Mama,"C500,C501,C502,C503,C504,C505,C506,C508,C509",39,CMA,c_mama,Carcinoma de Mama,Carcinoma de Mama,C.Mama,,,,0,ddt,C500 C501 C502 C503 C504 C505 C506 C508 C509,http://conitec.gov.br/images/Protocolos/DDT/DDT-Carcinoma-de-mama_PORTARIA-CONJUNTA-N--5.pdf,"Portaria Conjunta Nº 5, de 18 de abril de 2019",0,1
-"019",Carcinoma de estômago e esôfago,"C150,C151,C152,C153,C154,C155,C158,C159,C160,C161,C162,C163,C164,C165,C166,C168,C169,C170,C171,C172,C173,C178,C179,C18,C180,C181,C182,C183,C184,C185,C186,C187,C188,C189,C19,C20,C268,C474,C481,C493",,CEE,,,,,,,,,,,,,,
-"020",Carcinoma hepatocelular,"C22 ,",,CHE,,,,,,,,,,,,,,
-"021",Colangite Biliar Primária; Câncer de Fígado,"C220,C221,C222,C223,C224,C227,C229",,CBP,,,,,,,,,,,,,,
-"022",Comportamento Agressivo no Autismo,"F840,F841,F843,F845,F848",160,AUT,autismo,Comportamento Agressivo no Transtorno do Espectro do Autismo,Comportamento Agressivo no Autismo,Autismo,5,,,0,pcdt,F840 F841 F843 F845 F848,http://conitec.gov.br/images/Protocolos/20220419_PORTAL-Portaria_Conjunta_7_Comportamento_Agressivo_TEA.pdf,"Portaria No - 324, de 31 de março de 2016/ Portaria Conjunta SAES/SCTIE/MS nº 07 - 12/04/2022 (Publicada em 19/04/2022)",1,1
-"023",Câncer de Cabeça e Pescoço,"C00 ,C01 ,C02 ,C03 ,C04 ,C05 ,C06 ,C09 ,C10 ,C11 ,C12 ,C13 ,C14 ,C32 ,",23,CCP,c_cabeca,Câncer de Cabeça e Pescoço,Câncer de Cabeça e Pescoço,C.Cabeça,,,,0,pcdt,C00 C01 C02 C03 C04 C05 C06 C09 C10 C11 C12 C13 C14 C32,http://conitec.gov.br/images/Protocolos/DDT/DDT_CancerCabecaPescoco_2015.pdf,"Portaria Nº 516, de 17 de junho de 2015.",0,1
-"024",Câncer de Pulmão,"C34 ,C340,C341,C342,C343,C348,C349",43,CPU,c_pulmao,Câncer de Pulmão,Câncer de Pulmão,C.Pulmão,,,,0,pcdt,C34 C340 C341 C342 C343 C348 C349,http://conitec.gov.br/images/Artigos_Publicacoes/ddt_CAPulmao_26092014.pdf,"Portaria Nº 957, de 26 de setembro de 2014.",0,1
-"025",Deficiência Intelectual,"F78 ,F780,F781,F788,F789",162,DFI,def_intele,Diagnóstico Etiológico da Deficiência Intelectual,Deficiência Intelectual,Def. Int.,,,,0,Protocolos,F78 F780 F781 F788 F789,http://conitec.gov.br/images/Protocolos/20201203_Portaria-Conjunta_Protocolo_Deficiencia_Intelectual.pdf,Portaria Conjunta SAES/SCTIE/MS nº 21 - 25/11/2020 (Publicada em 03/12/2020),1,1
-"026",Deficiência de Biotinidase,E889,22,DBI,biotinidas,Deficiência de Biotinidase,Deficiência de Biotinidase,Biotinidas,,,,0,pcdt,E889,http://conitec.gov.br/images/Protocolos/PCDT_da_Deficiencia_de_Biotinidase.pdf,Portaria Conjunta SAS/SCTIE nº 13 – 04/05/2018 (Publicada em 24/05/2018),0,1
-"027",Degeneração Macular Relacionada com a Idade,H353,119,MAC,macular,Degeneração Macular Relacionada com a Idade (forma neovascular),Degeneração Macular Relacionada com a Idade,Deg.Macula,60,,,0,pcdt,H353,http://conitec.gov.br/images/Protocolos/20220329_portal-portaria-conjunta-no-04-pcdt-dmri.pdf,Portaria Conjunta SAS/SCTIE nº 18 – 19/11/2018 (Publicada em 19/11/2018)/ Portaria Conjunta SAES/SCTIE/MS nº 04 – 04/03/2022 (Publicada em 29/03/2022),0,1
-"028",Dermatomiosite e Polimiosite,"M330,M331,M332",54,DEP,dermatomio,Dermatomiosite e Polimiosite,Dermatomiosite e Polimiosite,Derm. Poli,,,,1,pcdt,M330 M331 M332,http://conitec.gov.br/images/Protocolos/PCDT_Dermatomiosite_Polimiosite.pdf,Portaria SAS/MS nº 1.692 - de 22/11/2016 (Publicada em 25/11/2016),0,1
-"029",Diabete Melito Tipo 1,"E100,E101,E102,E103,E104,E105,E106,E107,E108,E109",56,DM1,diabetes_1,Diabete Melito Tipo 1,Diabete Melito Tipo 1,Diabete1,,,,0,pcdt,E100 E101 E102 E103 E104 E105 E106 E107 E108 E109,http://conitec.gov.br/images/Protocolos/Portaria-Conjunta-PCDT-Diabete-Melito-1.pdf,Portaria Conjunta SAS/SCTIE nº 17 - 12/11/2019 (Publicada em 13/11/2019),0,1
-"030",Diabete Melito Tipo 2; Retinopatia Diabética,"E10,E11,E112,E113,E114,E115,E116,E117,E118,E119,E12,E13,E14,H360",,DM2,,,,,,,,,,,,,,
-"031",Diabetes Insípido,E232,58,DI,diabetes_i,Diabetes Insípido,Diabetes Insípido,Diab. Insí,,,,1,pcdt,E232,http://conitec.gov.br/images/Protocolos/PCDT_DiabeteInsipido_2018.pdf,Portaria Conjunta SAS/SCTIE nº 02 - 10/01/2018 (Publicada em 16/01/2018),0,1
-"032",Dislipidemia para a Prevenção de Eventos Cardiov.,"E780,E781,E782,E783,E784,E785,E786,E788",59,DIS,dislipidem,Dislipidemia para a Prevenção de Eventos Cardiovasculares e Pancreatite,Dislipidemia para a Prevenção de Eventos Cardiov.,Dislipidem,,,,0,pcdt,E780 E781 E782 E783 E784 E785 E786 E788,http://conitec.gov.br/images/Protocolos/PCDT_Dislipidemia.pdf,Portaria Conjunta SAS/MS nº 8 - 30/06/2019 (Publicada em 07/08/2019),0,1
-"033",Distonias focais e Espasmo Hemifacial,"G243,G244,G245,G248,G513,G518",60,DFE,distonias,Distonias e Espasmo Hemifacial,Distonias focais e Espasmo Hemifacial,Distonias,,,,1,pcdt,G243 G244 G245 G248 G513 G518,http://conitec.gov.br/images/Protocolos/Protocolo_Uso/Portaria_SAS-SCTIE_1_PCDT_Distonias_e_Espasmo_Hemifacial_29_05_2017.pdf,Portaria Conjunta SAS/SCTIE nº 1 - 29/05/2017 (Publicada em 30/05/2017),0,1
-"034",Doença Celíaca,K900,48,DCE,celiaca,Doença Celíaca,Doença Celíaca,Celíaca,,,,0,pcdt,K900,http://conitec.gov.br/images/Protocolos/PCDT_DoencaCeliaca.pdf,Portaria SAS/MS nº 1.149 - 12/11/2015 (Publicada em 12/11/2015),0,1
-"035",Doença Enxerto Contra Hospedeiro e no Mieloma,T860,67,DMM,enxerto_mi,"Talidomida no tratamento da Doença Enxerto Contra Hospedeiro
- e no Mieloma Múltiplo",Doença Enxerto Contra Hospedeiro e no Mieloma,Mieloma,,,,0,Protocolos,T860,https://bvsms.saude.gov.br/bvs/saudelegis/sas/2013/ANEXO/anexo_prt0298_21_03_2013.pdf,Portaria SAS/MS nº 298 - 22/03/2013 (Retificada em 12/04/2013),0,1
-"036",Doença Falciforme,"D561,D568,D570,D571,D572",76,FAL,falciforme,Doença Falciforme,Doença Falciforme,Falciforme,,,,1,pcdt,D561 D568 D570 D571 D572,http://conitec.gov.br/images/Protocolos/PCDT_DoencaFalciforme_2018.pdf,"Portaria Conjunta Nº 05, de 19 de fevereiro de 2018.",0,1
-"037",Doença Pulmonar Obstrutiva Crônica DPOC,"J440,J441,J448",,DPO,,,,,,,,,,,,,,
-"038",Doença Renal Crônica,"E550,E559,E643,E833,M830,M831,M832,M833,M838,N180,N182,N183,N184,N185,N188,N250",,DRC,,,,,,,,,,,,,,
-"039",Doença de Alzheimer,"F000,F001,F002,G300,G301,G308",159,DAZ,alzheimer,Doença de Alzheimer,Doença de Alzheimer,Alzheimer,,,,0,pcdt,F000 F001 F002 G300 G301 G308,http://conitec.gov.br/images/Relatorios/2017/Recomendacao/Portaria_Conjunta_13_PCDT_Alzheimer_28_11_2017.pdf,"Portaria Conjunta Nº 13, de 28 de novembro de 2017.",1,1
-"040",Doença de Chagas,"B57,B570,B571,B572,B573,B574,B575,K231,K931",49,CHA,chagas,Doença de Chagas,Doença de Chagas,Chagas,,,,0,pcdt,B57 B570 B571 B572 B573 B574 B575 K231 K931,http://conitec.gov.br/images/Protocolos/PCDT_Doenca_de_chagas.pdf,"Portaria Nº 57, de 30 de outubro de 2018",0,1
-"041",Doença de Crohn,"K500,K501,K508",52,CRN,crohn,Doença de Crohn,Doença de Crohn,Crohn,,,,1,pcdt,K500 K501 K508,http://conitec.gov.br/images/Protocolos/Portaria_Conjunta_14_PCDT_Doenca_de_Crohn_28_11_2017.pdf,"Portaria Conjunta Nº 14, de 28 de novembro de 2017.",0,1
-"042",Doença de Gaucher,E752,79,GAU,gaucher,Doença de Gaucher,Doença de Gaucher,Gaucher,,,,1,pcdt,E752,http://conitec.gov.br/images/Protocolos/PCDT___Doenca_de_Gaucher.pdf,"Portaria Conjunta Nº 4, de 22 de junho de 2017.",0,0
-"043",Doença de Paget,"M880,M888",134,PAG,paget,Doença de Paget,Doença de Paget,Paget,,,,1,pcdt,M880 M888,http://conitec.gov.br/images/Protocolos/PCDT_DoencaPAGET.pdf,"Portaria Conjunta Nº 2, de 17 de janeiro de 2020.",0,1
-"044",Doença de Parkinson,"G20 ,",135,PKS,parkinson,Doença de Parkinson,Doença de Parkinson,Parkinson,,,,0,pcdt,G20,http://conitec.gov.br/images/Protocolos/PCDT_Doenca_de_Parkinson_2017.pdf,"Portaria Conjunta Nº 10, de 31 de outubro de 2017.",0,1
-"045",Doença de Pompe,E740,137,POP,pompe,Doença de Pompe,Doença de Pompe,Pompe,,,,1,pcdt,E740,http://conitec.gov.br/images/Protocolos/Protocolo_Uso/Portaria-Conjunta-PCDT-Doena-de-Pompe10-08-2020.pdf,Portaria Conjunta SAES/SCTIE/MS nº 12 - 03/08/2020 (Publicada em 10/08/2020),0,1
-"046",Doença de Wilson,E830,158,WIL,wilson,Doença de Wilson,Doença de Wilson,Wilson,,,,1,pcdt,E830,http://conitec.gov.br/images/Protocolos/PCDT-Doenca-Wilson_2018.pdf,"Portaria Conjunta N 09, de 27 de março de 2018.",0,1
-"047",Dor Crônica,"R521,R522",64,CRO,dor_cronic,Dor Crônica,Dor Crônica,Dor,,,,0,pcdt,R521 R522,http://conitec.gov.br/images/Protocolos/DorCronica.pdf,Portaria SAS/MS nº 1.083 - 02/10/2012 (Publicada em 03/10/2012),0,1
-"048",Endometriose,"N800,N801,N802,N803,N804,N805,N808",66,END,endometrio,Endometriose,Endometriose,Endometrio,,,,0,pcdt,N800 N801 N802 N803 N804 N805 N808,http://conitec.gov.br/images/Protocolos/pcdt_endometriose_2016.pdf,Portaria SAS/MS nº 879 - 12/07/2016 (Publicada 15/07/2016),0,1
-"049",Epidermólise Bolhosa,"L123,Q810,Q811,Q812,Q818,Q819",68,EPM,epidermoli,Epidermólise Bolhosa Hereditária e Adquirida,Epidermólise Bolhosa,E. Bolhosa,,,,1,pcdt,Q810 Q811 Q812 Q818 Q819 L123,http://conitec.gov.br/images/Protocolos/PortariaConjunta_PCDT_-Epidermolise_Bolhosa_496-2020.pdf,Portaria Conjunta SAES/SCTIE/MS nº 24 - 23/12/2021 (Publicada em 29/12/2021),0,1
-"050",Epilepsia,"G400,G401,G402,G403,G404,G405,G406,G407,G408",69,EPI,epilepsia,Epilepsia,Epilepsia,Epilepsia,,,,0,pcdt,G400 G401 G402 G403 G404 G405 G406 G407 G408,http://conitec.gov.br/images/Protocolos/PCDT_Epilepisia_2019.pdf,Portaria Conjunta SAS/SCTIE nº 17 - 27/06/2018 (Publicada em 27/06/2018),0,1
-"051",Esclerose Lateral Amiotrófica,G122,70,ELA,esclerose,Esclerose Lateral Amiotrófica,Esclerose Lateral Amiotrófica,ELA,,,,1,pcdt,G122,http://conitec.gov.br/images/Protocolos/Portaria_Conjunta_PCDT_ELA.pdf,Portaria Conjunta SAES/SCTIE/MS nº 13 - 13/08/2020 (Publicada em 19/08/2020),0,1
-"052",Esclerose Múltipla,"G35 ,",71,EM,esclerose,Esclerose Múltipla,Esclerose Múltipla,Escl. Múlt,,,,0,pcdt,G35,http://conitec.gov.br/images/Protocolos/20220201_PORTAL_Portaria_Conjunta_1_PCDT_Esclerose_Multipla.pdf,Portaria Conjunta SAES/SCTIE/MS nº 1 - 07/01/2022 (Publicada em 31/01/2022),0,1
-"053",Esclerose Sistêmica,"M340,M341,M348",72,ESC,esclerose,Esclerose Sistêmica,Esclerose Sistêmica,Escl. Sist,,,,0,pcdt,M340 M341 M348,http://conitec.gov.br/images/Protocolos/PCDT-Esclerose-Sistemica.05-09-2017.pdf,"Portaria Conjunta Nº 09, de 28 de agosto de 2017.",0,1
-"054",Espasticidade,"G041,G800,G801,G802,G811,G821,G824,I690,I691,I692,I693,I694,I698,T905,T908",73,ESP,espasticid,Espasticidade,Espasticidade,Espasticid,,,,0,pcdt,G041 G800 G801 G802 G811 G821 G824 I690 I691 I692 I693 I694 I698 T905 T908,http://conitec.gov.br/images/Protocolos/20220323_portal-portaria-conjunta-no-5-pcdt_espasticidade.pdf,Portaria Conjunta SAS/SCTIE nº 2 - 29/05/2017 (Publicada em 30/05/2017)/ Portaria Conjunta SAS/SCTIE/MS nº 5 - 22/03/2022 (Publicada em 23/03/2022),0,1
-"055",Espondilite Ancilosante,"M45 ,M468",74,ANC,espondilit,Espondilite Ancilosante,Espondilite Ancilosante,Espondilit,,,,1,pcdt,M45 M468,http://conitec.gov.br/images/Protocolos/PCDT_EspondiliteAncilosante.pdf,Portaria Conjunta SAS/SCTIE nº 25 - 22/10/2018 (Publicada em 26/10/2018),0,1
-"056",Espondilose,"M471,M472,M478",75,ESS,espondilos,Espondilose,Espondilose,Espondilos,,,,0,pcdt,M471 M472 M478,https://www.saude.gov.br/images/pdf/2014/abril/02/pcdt-espondilose-livro-2013.pdf,Portaria SAS/MS nº 1.309 - 22/11/2013 (Publicada em 25/11/2013),0,1
-"057",Esquizofrenia,"F200,F201,F202,F203,F204,F205,F206,F208",164,EQZ,esquizofre,Esquizofrenia,Esquizofrenia,Esquizofre,,,,0,pcdt,F200 F201 F202 F203 F204 F205 F206 F208,https://www.saude.gov.br/images/pdf/2014/abril/02/pcdt-esquizofrenia-livro-2013.pdf,Portaria SAS/MS nº 364 - 09/04/2013 (Publicada em 07/05/2014),1,1
-"058",Fenilcetonúria,"E700,E701",77,FEN,fenilceton,Fenilcetonúria,Fenilcetonúria,Fenilceton,,,,1,pcdt,E700 E701,http://conitec.gov.br/images/Protocolos/Portaria-Conjunta-PCDT-Fenilcetonuria_SAES.pdf,Portaria SAS/MS nº 12 - 10/09/2019 (Publicada em 16/09/2019),0,1
-"059",Fibrose Cística,"E840,E841,E848",,FCI,,,,,,,,,,,,,,
-"060",Glaucoma,"H401,H402,H403,H404,H405,H406,H408,Q150",80,GLA,glaucoma,Glaucoma,Glaucoma,Glaucoma,,,,0,pcdt,H401 H402 H403 H404 H405 H406 H408 Q150,http://conitec.gov.br/images/Relatorios/Portaria/2018/SITE_Portaria-Conjunta-n-11_PCDT_Glaucoma_02_04_2018.pdf,Portaria Conjunta SAS/SCTIE nº 11 - 02/04/2018 (Publicada em 09/04/2018),0,1
-"061",Hanseníase,"B92 ,",,HAN,,,,,,,,,,,,,,
-"062",Hemangioma Infantil,D180,83,HEI,hemangioma,Hemangioma Infantil,Hemangioma Infantil,Hemangioma,,,,0,pcdt,D180,http://conitec.gov.br/images/Protocolos/PCDT_HemangiomaInfantil.pdf,Portaria Conjunta SAS/SCTIE nº 6 - 23/02/2018 (Publicada em 01/03/2018),0,1
-"063",Hemofilia A e inibidores do fator VIII,"D66 ,D683",84,HAF,hemofila_f,Emicizumabe para tratamento de indivíduos com hemofilia A e inibidores do fator VIII refratários ao ,Hemofilia A e inibidores do fator VIII,Hemofilia,,,,0,Protocolos,D66 D683,http://conitec.gov.br/images/Protocolos/Protocolo_Uso/20210831_PU_Emicizumabe_Hemofilia.pdf,Portaria Conjunta SAES/SCTIE/MS nº 15 - 26/08/2021 (Publicada em 30/08/2021),0,1
-"064",Hemoglobinúria Paroxística Noturna,D595,85,HPN,hemoglobin,Hemoglobinúria Paroxística Noturna,Hemoglobinúria Paroxística Noturna,Hemoglobin,,,,0,pcdt,D595,http://conitec.gov.br/images/Protocolos/PCDT__HPN.pdf,Portaria Conjunta SAES/SCTIE nº 18 - 20/11/2019 (Publicada em 22/11/2019),0,0
-"065",Hepatite Autoimune,K754,88,HAU,hepatite_a,Hepatite Autoimune,Hepatite Autoimune,Hep Auto,,,,1,pcdt,K754,http://conitec.gov.br/images/Relatorios/Portaria/2018/Portaria_Hepatite_Autoimune.pdf,Portaria Conjunta SAS/SCTIE nº 14 - 09/05/2018 (Publicada em 09/05/2018),0,1
-"066",Hepatite B - Coinfecções e Profilaxia pós-transp.,"B160,B162,B180,B181",,HEB,,,,,,,,,,,,,,
-"067",Hepatite C e coinfecções,"B171,B182",89,HCC,hepatite_c,Hepatite C e coinfecções,Hepatite C e coinfecções,Hep C,,,,0,pcdt,B171 B182,http://conitec.gov.br/images/Protocolos/PCDT_HepatiteC_e_coinfeccoes_2018.pdf,Portaria SCTIE/MS nº 84 - 19/12/2018 (Publicada em 20/12/2018),0,1
-"068",Hidradenite Supurativa,L732,90,HIS,hidradenit,Hidradenite Supurativa,Hidradenite Supurativa,Hidradenit,,,,0,pcdt,L732,http://conitec.gov.br/images/Protocolos/Site-de-Portaria-Conjunta-14_PCDTHidradernite-Supurativa.pdf,Portaria SCTIE/SAS/MS nº 14/2019 - 11/09/2019 (Publicada em 16/09/2019),0,1
-"069",Hiperplasia Adrenal Congênita,E250,3,HAC,adrenal_co,Hiperplasia Adrenal Congênita,Hiperplasia Adrenal Congênita,H.Adren.,,,,1,pcdt,E250,http://conitec.gov.br/images/pdf/2014/abril/02/pcdt-hiperplasia-adrenal-congenita-livro-2010.pdf,Portaria SAS/MS nº 16 - 15/01/2010 (Publicada em 18/01/2010),0,1
-"070",Hiperprolactinemia,E221,92,HIC,hiperprola,Hiperprolactinemia,Hiperprolactinemia,Hiperprola,,,,0,pcdt,E221,http://conitec.gov.br/images/Protocolos/pcdt_hiperprolactinemia_2015.pdf,Portaria SAS/MS nº 1.160 - 20/11/2015 (Publicada em 19/11/2015)/Portaria Conjunta SCTIE/SAES/MS nº 19 - 23/11/2020 (Publicada em 27/11/2020),0,1
-"071",Hipertensão Arterial Pulmonar,"I270,I272,I278",93,HAP,hipertensa,Hipertensão Arterial Pulmonar,Hipertensão Arterial Pulmonar,HAP,,,,1,pcdt,I270 I272 I278,http://conitec.gov.br/images/Protocolos/HAP.pdf,Portaria SAS/MS nº 35 - 16/01/2014 (Publicada em 17/01/2014). (Republicado em 06/06/2014 e 23/09/2014),0,1
-"072",Hipoparatireoidismo,"E200,E201,E208,E892",95,HIP,hipopparat,Hipoparatireoidismo,Hipoparatireoidismo,Hipoparati,,,,1,pcdt,E200 E201 E208 E892,http://conitec.gov.br/images/Protocolos/PCDT_Hipoparatireoidismo_29-04-2016.pdf,Portaria SAS/MS nº 450 - 29/04/2016,0,1
-"073",Hipotireoidismo Congênito,"E030,E031",96,HPC,hipotireoi,Hipotireoidismo Congênito,Hipotireoidismo Congênito,Hipotireoi,,,,0,pcdt,E030 E031,http://conitec.gov.br/images/Protocolos/pcdt_hipotirodismo-congenito_2015.pdf,Portaria SAS/MS nº 1.161 - 20/11/2015 (Publicada em 20/11/2015),0,1
-"074",Homocistinúria Clássica,E721,99,HOM,homocistin,Homocistinúria Clássica,Homocistinúria Clássica,Homocistin,,,,1,pcdt,E721,http://conitec.gov.br/images/Protocolos/PCDT_HomocistinriaClassica.pdf,Portaria Conjunta SAES/SCTIE nº 3 - 23/01/2020 (Publicada em 23/01/2020),0,0
-"075",Ictioses Hereditárias,"Q800,Q801,Q802,Q803,Q808,Q809",100,ICT,ictiose,Ictioses Hereditárias,Ictioses Hereditárias,Ictioses H,,,,1,pcdt,Q800 Q801 Q802 Q803 Q808 Q809,http://conitec.gov.br/images/Protocolos/20210804_PCDT_Ictioses_Hereditarias.pdf,Portaria SAS/MS nº 1.162 - 20/11/2015 (Publicada em 20/11/2015)/Portaria Conjunta SAES/SCTIE/MS nº 12 - 27/07/2021 (Publicada em 04/08/2021),0,1
-"076",Imunodeficiência Primária,"D800,D801,D803,D805,D806,D807,D808,D830,D832,D838",101,ANT,imunosufic,Imunodeficiência Primária com predominância de defeitos de Anticorpos,Imunodeficiência Primária,Imunodefic,,,,1,pcdt,D800 D801 D803 D805 D806 D807 D808 D830 D832 D838,http://conitec.gov.br/images/Protocolos/PCDT-ImunodeficienciaPrimaria.pdf,Portaria SAS/MS nº 495 - 11/09/2007 (Publicada em 12/09/2007),0,1
-"077",Imunossupressão no Transplante Cardíaco,"T862,Z941",46,CAR,cardiaco,Imunossupressão no Transplante Cardíaco,Imunossupressão no Transplante Cardíaco,T.cardio,,,,0,pcdt,T862 Z941,http://conitec.gov.br/images/Protocolos/20210121_Portaria_Conjunta_PCDT_Imunossupressao_Transplante_Cardiaco.pdf,Portaria Conjunta SAES/SCTIE/MS nº 2 - 05/01/2021 (Publicada em 11/01/2021),0,1
-"078",Imunossupressão no Transplante Hepático,"T864,Z944",,ITH,,,,,,,,,,,,,,
-"079",Imunossupressão no Transplante Renal,"T861,Z940",147,REN,renal,Imunossupressão no Transplante Renal,Imunossupressão no Transplante Renal,T.Renal,,,,0,pcdt,T861 Z940,http://conitec.gov.br/images/Protocolos/20210113_PCDT_Imunossupressao_Transplante-Renal.pdf,Conjunta SAES/SCTIE/MS nº 01/2021 - 05/01/2021 (Publicada em 11/01/2021),0,1
-"080",Incontinência Urinária não Neurogênica,"N393,N394,R32 ,",102,URI,incontinen,Incontinência Urinária não Neurogênica,Incontinência Urinária não Neurogênica,Incontinên,,,,0,pcdt,N393 N394 R32,http://conitec.gov.br/images/Protocolos/Portaria-Conjunta-PCDT-Incontinencia-Urinaria-NN-13.01.2020.pdf,Portaria Conjunta SAES/SCTIE nº 01 - 09/01/2020 (Publicada em 13/01/2020),0,1
-"081",Infarto Agudo do Miocárdio,"I200,I201,I210,I211,I212,I213,I214,I219,I220,I221,I228,I229,I230,I231,I232,I233,I234,I235,I236,I238,I240,I248,I249",105,INF,infarto,Infarto Agudo do Miocárdio,Infarto Agudo do Miocárdio,IAM,,,,0,Linhas de ,I200 I201 I210 I211 I212 I213 I214 I219 I220 I221 I228 I229 I230 I231 I232 I233 I234 I235 I236 I238 I240 I248 I249,http://conitec.gov.br/images/Protocolos/ProtocoloUso-IAM.pdf,Portaria SAS/MS nº 2.994 - 13/12/2011 (Publicada em 31/12/2011),0,1
-"082",Insuficiência Adrena e Hipopituitarismo,"E230,E233,E271,E272,E273,E274",,IAH,,,,,,,,,,,,,,
-"083",Insuficiência Cardíaca - Fração de Ejeção Reduzida,"I500,I501,I509",106,ICR,insuf_card,Diretrizes Brasileiras para Diagnóstico e Tratamento da Insuficiência Cardíaca com Fração de Ejeção ,Insuficiência Cardíaca - Fração de Ejeção Reduzida,IC Ejeção,,,,0,Diretrizes,I500 I501 I509,http://conitec.gov.br/images/Relatorios/Portaria/2020/20210825_portaria-conjunta-17_diretrizes-brasileiras-icfer.pdf,Portaria Conjunta SAES/SCTIE/MS nº 17/2020 – 18/11/2020 (Publicada em 26/11/2020),0,1
-"084",Insuficiência Pancreática Exócrina,"K860,K861,K903",107,IPE,insuficien,Insuficiência Pancreática Exócrina,Insuficiência Pancreática Exócrina,I.Pancr.Ex,,,,1,pcdt,K860 K861 K903,http://conitec.gov.br/images/Protocolos/PCDT_InsuficienciaPancreaticaExocrina-Fev2016.pdf,Portaria SAS/MS nº 112 - 05/02/2016 (Publicada em 05/02/2016),0,1
-"085",Intoxicação aguda por cianeto,"T573,T650",113,ITC,intox_cian,Hidroxocobalamina na intoxicação aguda por cianeto,Intoxicação aguda por cianeto,Cianeto,,,,1,Protocolos,T573 T650,http://conitec.gov.br/images/Protocolos/Protocolo_Uso/ProtocoloUso_Hidroxocobalamina_2015.pdf,Portaria SAS/MS nº 1.115 - 19/10/2015 (Publicada em 20/10/2015),0,0
-"086",Intoxicações por agrotóxicos,"T60,X48,X68,X87,Y18",108,ITA,intox_agro,Diretrizes Brasileiras para diagnóstico e tratamento das intoxicações por agrotóxicos,Intoxicações por agrotóxicos,Agrotóxico,,,,0,Diretrizes,T60 X48 X68 X87 Y18,http://conitec.gov.br/images/Protocolos/Protocolo_Uso/DiretizesNacionais_IntoxicacaoAgrotoxico_Capitulo1.pdf,Portaria SCTIE/MS nº 43/2018 – 16/10/2018 (Publicada em 18/10/2018),0,0
-"087",Leimioma de útero,"D250,D251,D252",114,LEI,leimioma,Leimioma de útero,Leimioma de útero,Leimioma,,,,0,pcdt,D250 D251 D252,http://conitec.gov.br/images/Protocolos/DDT/PCDT-Leiomioma_31_10_2017.pdf,Portaria Conjunta SAS/SCTIE nº 11 - 31/11/2017 (Publicada em 09/11/2017),0,1
-"088",Leucemia Linfoblástica Aguda Crom. Philad.,"C835,C910",,LLA,,,,,,,,,,,,,,
-"089",Leucemia Mieloide Aguda,"C920,C921,C923,C924,C925,C927,C930,C931,C937,C940,C942,C943",,LMA,,,,,,,,,,,,,,
-"090",Leucemia/Linfoma Associação ao Vírus HTLV-1,"C844,C915",36,LHT,c_leucemia,Zidovudina para tratamento do Adulto com Leucemia/Linfoma Associação ao Vírus HTLV-1,Leucemia/Linfoma Associação ao Vírus HTLV-1,L. HTLV-1,18,130,,0,Protocolos,C844 C915,http://conitec.gov.br/images/Protocolos/Protocolo_Uso/ProtocoloUso_Zidovudina_Leucemia.pdf,Portaria SVS/MS n° 54 - 18/07/2016 (Publicada em 19/07/2016),0,1
-"091",Linfangioleiomiomatose,J848,117,LIM,linfangiol,Linfangioleiomiomatose,Linfangioleiomiomatose,Linfangio,,,,1,pcdt,J848,http://conitec.gov.br/images/Protocolos/20210820_Portaria_Conjunta_N13_PCDT_LAM.pdf,Portaria Conjunta SAES/SCTIE/MS nº 13 - 12/08/2021 (Publicada em 20/08/2021),0,1
-"092",Linfoma Difuso de Grandes Células B,C833,,LDG,,,,,,,,,,,,,,
-"093",Linfoma Folicular,"C820,C821,C822,C827,C829",31,LIN,c_folicula,Linfoma Folicular,Linfoma Folicular,Linfoma Fo,,,,0,ddt,C820 C821 C822 C827 C829,http://conitec.gov.br/images/Artigos_Publicacoes/ddt_LinfomaFolicular_10102014.pdf,Portaria SAS/MS nº 1.501 - 10/10/2014 (Publicada em 13/10/2014),0,1
-"094",Linfoma de Hodgkin,"C810,C811,C812,C813,C817,C819",,LHK,,,,,,,,,,,,,,
-"095",Lúpus Eritematoso Sistêmico,"L930,L931,M321,M328",118,LES,lupus,Lúpus Eritematoso Sistêmico,Lúpus Eritematoso Sistêmico,Lúpus Erit,,,,1,pcdt,L930 L931 M321 M328,http://conitec.gov.br/images/Protocolos/LupusEritematoso_Sistemico.pdf,Portaria GM/MS nº 100 - 07/02/2013 (Publicada em 08/02/2013). (Retificada em 22/03/2013),0,1
-"096",Melanoma Cutâneo,"C43,C430,C431,C432,C433,C434,C436,C437,C438,C439,D03,D030,D031,D032,D033,D034,D035,D036,D037",27,MEL,c_cutaneo,Melanoma Maligno Cutâneo,Melanoma Cutâneo,Melanoma C,,,,0,ddt,C43 C430 C431 C432 C433 C434 C436 C437 C438 C439 D03 D030 D031 D032 D033 D034 D035 D036 D037,http://conitec.gov.br/images/Protocolos/DDT/Melanoma-Maligno-Cutaneo.pdf,Portaria SAS/MS nº 357 - 08/04/2013 (Publicada em 09/04/2013),0,1
-"097",Mesotelioma,"C450,C459",,MES,,,,,,,,,,,,,,
-"098",Miastenia Gravis,G700,123,MG,miastenia,Miastenia Gravis,Miastenia Gravis,Miastenia,,,,1,ddt,G700,http://conitec.gov.br/images/Protocolos/20220530_PORTAL_PCDT_Miastenia_Gravis.pdf,Portaria SAS/MS nº 1.169 - 19/11/2015 (Publicada em 20/11/2015)/ Portaria SAES/MS nº 11 - 23/05/2022 (Publicada em 27/05/2022),0,1
-"099",Mieloma Múltiplo,"C900,C901,C902,D472",40,MM,c_mieloma,Mieloma Múltiplo,Mieloma Múltiplo,Mieloma Mú,,,,0,ddt,C900 C901 C902 D472,http://conitec.gov.br/images/Protocolos/ddt_Mieloma-Multiplo.pdf,Portaria SAS/MS nº 708 - 06/08/2015 (Publicada em 07/08/2015),0,1
-"100",Mucopolissacaridose tipo I,E760,125,MC1,mucopoliss,Mucopolissacaridose tipo I,Mucopolissacaridose tipo I,Mucopolis1,,,,1,pcdt,E760,http://conitec.gov.br/images/Protocolos/MUCOPOLISSACARIDOSE-TIPO-I.pdf,Portaria Conjunta SAS/SCTIE nº 12 - 11/04/2018 (Publicada em 18/04/2018),0,1
-"101",Mucopolissacaridose tipo II,E761,126,MC2,mucopoliss,Mucopolissacaridose tipo II,Mucopolissacaridose tipo II,Mucopolis2,,,,1,pcdt,E761,http://conitec.gov.br/images/Protocolos/PCDT_MPS-II.pdf,Portaria Conjunta SAS/SCTIE nº 16 – 24/05/2018 (Publicada em 25/05/2018),0,1
-"102","Mucopolissacaridose tipo IV, VI e VII",E762,,MC4,,,,,,,,,,,,,,
-"103",Neoplasia Maligna Epitelial de Ovário,"C56,C570,C786",41,OVA,c_ovario,Neoplasia Maligna Epitelial de Ovário,Neoplasia Maligna Epitelial de Ovário,N.Ovário,,,,0,ddt,C56 C570 C786,http://conitec.gov.br/images/Protocolos/DDT/DDT_NeoplasiaMalignaEpitelialdeOvario_2019.pdf,Portaria Conjunta SAS/SCTIE nº 01 - 07/01/2019 (Publicada em 14/01/2019),0,1
-"104",Osteogênese Imperfeita,Q780,131,OSI,osteogenes,Osteogênese Imperfeita,Osteogênese Imperfeita,Osteogênes,,,,1,pcdt,Q780,https://www.saude.gov.br/images/pdf/2014/abril/03/pcdt-osteogenese-imperfeita-livro-2013.pdf,Portaria SAS/MS nº 1.306 - 22/11/2013 (Publicada em 25/11/2013),0,1
-"105",Osteoporose,"M800,M801,M802,M803,M804,M805,M808,M810,M811,M812,M813,M814,M815,M816,M818,M820,M821,M828",132,OST,osteoporos,Osteoporose,Osteoporose,Osteoporos,,,,0,pcdt,M800 M801 M802 M803 M804 M805 M808 M810 M811 M812 M813 M814 M815 M816 M818 M820 M821 M828,http://conitec.gov.br/images/Protocolos/Osteoporose.pdf,Portaria SAS/MS nº 451 – 09/06/2014 (Publicada em 10/06/2014). (Retificada em 18/06/2014),0,1
-"106",Polineuropatia Amiloidótica Familiar,E851,136,PAF,polineurop,Polineuropatia Amiloidótica Familiar,Polineuropatia Amiloidótica Familiar,Polineurop,,,,0,pcdt,E851,http://conitec.gov.br/images/Protocolos/PCDT_Polineuropatia_Amiloidotica_Familiar_2018.pdf,Portaria Conjunta nº 22 - 02/10/2018 (Publicada em 10/10/2018),0,1
-"107",Psoríase,"L400,L401,L404,L408",142,PSO,psoriase,Psoríase,Psoríase,Psoríase,,,,0,pcdt,L400 L401 L404 L408,http://conitec.gov.br/images/Protocolos/Diretrizes/Portaria_SAES_SCTIE_10_2019.pdf,Portaria SCTIE/SAS/MS nº 10 - 06/07/2019 (Publicada em 11/09/2019),0,1
-"108",Puberdade Precoce Central,E228,143,PUB,puberdade,Puberdade Precoce Central,Puberdade Precoce Central,Puberdade,,,,0,pcdt,E228,http://conitec.gov.br/images/Relatorios/2017/Portaria_Conjunta_03_SAS-SVS_PCDT_Puberdade_Precoce_Central_08_06_2017.pdf,Portaria Conjunta SAS/SCTIE nº 3 - 08/06/2017 (Publicada em 09/06/2017),0,1
-"109",Púrpura Trombocitopênica Idiopática,D693,144,PTI,purpura,Púrpura Trombocitopênica Idiopática,Púrpura Trombocitopênica Idiopática,Púrpura,,,,1,pcdt,D693,http://conitec.gov.br/images/Protocolos/PCDT_PurpuraTrombocitopenicaIdiopatica.pdf,Portaria Conjunta SAS/MS nº 9 - 31/07/2019 (Publicada em 07/08/2019),0,1
-"110",Retocolite Ulcerativa,"K510,K512,K513,K515,K518",149,RET,retocolite,Retocolite Ulcerativa,Retocolite Ulcerativa,Retocolite,,,,0,pcdt,K510 K512 K513 K515 K518,http://conitec.gov.br/images/Protocolos/PCDT_Retocolite_Ulcerativa_2020.pdf,Portaria Conjunta SAES/SCTIE/MS nº 22 - 20/12/2021 (Publicada em 29/12/2021),0,1
-"111",Sobrecarga de Ferro,"E831,T454",150,SFE,sobrecarga,Sobrecarga de Ferro,Sobrecarga de Ferro,Sobrec. Fe,,,,1,pcdt,E831 T454,http://conitec.gov.br/images/Protocolos/PCDT_Sobrecarga_Ferro.pdf,"Portaria Conjunta Nº 7, de 23 de fevereiro de 2018",0,1
-"112",Sobrepeso e Obesidade,"E66 ,E660,E661,E662,E668,E669",,SOB,,,,,,,,,,,,,,
-"113",Síndrome Hipereosinofílica com mesilato de imat.,D721,,SHM,,,,,,,,,,,,,,
-"114",Síndrome Mielodisplásica,"D460,D461,D464,D467",124,MIE,mielodispl,Talidomida no tratamento da Síndrome Mielodisplásica,Síndrome Mielodisplásica,S. Mielodi,,,,1,Protocolos,D460 D461 D464,http://conitec.gov.br/images/Protocolos/Talidomida_SindromeMielodispl%C3%A1sica.pdf,Portaria SAS/MS nº 493 - 11/06/2015 (Publicada em 12/06/2015),0,1
-"115",Síndrome Nefrótica Primária,"N040,N041,N042,N043,N044,N045,N046,N047,N048,N049",,SNP,,,,,,,,,,,,,,
-"116",Síndrome de Guillain-Barré,G610,81,SGB,guillain_b,Síndrome de Guillain-Barré,Síndrome de Guillain-Barré,Guil-Barré,,,,1,pcdt,G610,http://conitec.gov.br/images/Protocolos/20201022_Portaria_Conjunta_PCDT_SGB.pdf,"Portaria Nº 1171, de 19 de novembro de 2015/ Portaria Conjunta SAES/SCTIE/MS nº 15 – 13/10/2020 (Publicada em 16/10/2020)",0,1
-"117",Síndrome de Ovários Policísticos,"E282,L680",133,SOP,ovario_pol,Síndrome de Ovários Policísticos,Síndrome de Ovários Policísticos,Ovário Pol,,,,0,pcdt,E282 L680,http://conitec.gov.br/images/Protocolos/PCDT-Sindrome-dos-Ovrios-Policsticos.pdf,"Portaria Conjunta Nº 6, de 2 de JULHO de 2019.",0,1
-"118",Síndrome de Turner,"Q960,Q961,Q962,Q963,Q964,Q968",155,TUR,turner,Síndrome de Turner,Síndrome de Turner,Turner,,,,1,pcdt,Q960 Q961 Q962 Q963 Q964 Q968,http://conitec.gov.br/images/Protocolos/PCDT_Sindrome_de_Turner.pdf,"Portaria Conjunta Nº 15, de 09 de MAIO de 2018",0,1
-"119",Tabagismo,"F171,F172,F173,T652,Z720",152,TAB,tabagismo,Tabagismo,Tabagismo,Tabagismo,,,,0,pcdt,F171 F172 F173 T652 Z720,http://conitec.gov.br/images/Protocolos/PCDT_Tabagismo.pdf,Portaria Conjunta SCTIE/SAES/MS nº 10 - 16/04/2020 (Publicada em 24/04/2020),0,1
-"120",Transtorno Afetivo Bipolar do tipo I,"F311,F312,F313,F314,F315,F316,F317",161,BIP,bipolar,Transtorno Afetivo Bipolar do tipo I,Transtorno Afetivo Bipolar do tipo I,Bipolar,,,,0,pcdt,F311 F312 F313 F314 F315 F316 F317,http://conitec.gov.br/images/Protocolos/PCDT_TranstornoAfetivoBipolar_TipoI.pdf,Portaria SAS/MS Nº 315 - 30/03/2016 (Publicada em 31/03/2016),1,1
-"121",Transtorno Deficit de Atenção Hiperatividade,"F900,F901,F908,F909",,TDA,,,,,,,,,,,,,,
-"122",Transtorno Esquizoafetivo,"F250,F251,F252",163,TEZ,esquizoafe,Transtorno Esquizoafetivo,Transtorno Esquizoafetivo,T.Esquizoa,,,,0,pcdt,F250 F251 F252,http://conitec.gov.br/images/Protocolos/20210601_portaria-conjunta_pcdt-transtorno-esquizoafetivo.pdf,Portaria SAS/MS nº 1.203 - 04/11/2014 (Publicada em 05/11/2014)/Portaria Conjunta SAES/SCTIE/MS nº 07 - 14/05/2021 (Publicada em 31/05/2021),1,1
-"123",Tromboembolismo Venoso em Gestantes com Trombof.,"D688,I820,I821,I822,I823,I828,O223,O225",,TVG,,,,,,,,,,,,,,
-"124",Tumor Cerebral - Adultos,"C710,C711,C712,C713,C714,C715,C716,C717,C718,C719",25,TCA,c_cerebral,Tumor Cerebral - Adultos,Tumor Cerebral - Adultos,T.Cerebral,18,130,,0,ddt,C710 C711 C712 C713 C714 C715 C716 C717 C718 C719,http://conitec.gov.br/images/Protocolos/DDT-TumorCerebralAdulto.pdf,Portaria Conjunta SAES/SCTIE nº 7 - 13/04/2020 (Republicada em 16/04/2020),0,1
-"125",Uveítes Não-Infecciosas,"H150,H201,H301,H302,H308",156,UVE,uveite,Uveítes Não-Infecciosas,Uveítes Não-Infecciosas,Uveítes,,,,0,pcdt,H150 H201 H301 H302 H308,http://conitec.gov.br/images/Protocolos/Portaria-Conjunta-PCDT-Uveites_SAES.pdf,Portaria SAS/MS n° 13 - 11/09/2019 (Publicada em 16/09/2019),0,1
-"301",Anomalia congênita,"Q00,Q01,Q02,Q03,Q04,Q05,Q06,Q07,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q20,Q21,Q22,Q23,Q24,Q25,Q26,Q27,Q28,Q30,Q31,Q32,Q33,Q34,Q35,Q36,Q37,Q38,Q39,Q40,Q41,Q42,Q43,Q44,Q45,Q50,Q51,Q52,Q53,Q54,Q55,Q56,Q60,Q61,Q62,Q63,Q64,Q65,Q66,Q67,Q68,Q69,Q70,Q71,Q72,Q73,Q74,Q75,Q76,Q77,Q78,Q79,Q80,Q81,Q82,Q83,Q84,Q85,Q86,Q87,Q89,Q90,Q91,Q92,Q93,Q95,Q96,Q97,Q98,Q99",301,ANC,ANC,,,,,,,0,,Q00 Q01 Q02 Q03 Q04 Q05 Q06 Q07 Q10 Q11 Q12 Q13 Q14 Q15 Q16 Q17 Q18 Q20 Q21 Q22 Q23 Q24 Q25 Q26 Q27 Q28 Q30 Q31 Q32 Q33 Q34 Q35 Q36 Q37 Q38 Q39 Q40 Q41 Q42 Q43 Q44 Q45 Q50 Q51 Q52 Q53 Q54 Q55 Q56 Q60 Q61 Q62 Q63 Q64 Q65 Q66 Q67 Q68 Q69 Q70 Q71 Q72 Q73 Q74 Q75 Q76 Q77 Q78 Q79 Q80 Q81 Q82 Q83 Q84 Q85 Q86 Q87 Q89 Q90 Q91 Q92 Q93 Q95 Q96 Q97 Q98 Q99,,,,
-"302",Síndrome de Down,"Q90,Q900,Q901,Q902,Q909",302,SD,SD,,,,,,,0,,Q90 Q900 Q901 Q902 Q909,,,,
-"600",Animais Peçonhentos,T63,600,ANIM,ANIM,,,,,,,0,,T63,,,,
-"601",Botulismo,A051,601,BOTU,BOTU,,,,,,,0,,A051,,,,
-"602",Doença de Chagas,B57,602,CHAG,CHAG,,,,,,,0,,B57,,,,
-"603",Cólera,A00,603,COLE,COLE,,,,,,,0,,A00,,,,
-"604",Coqueluche,A37,604,COQU,COQU,,,,,,,0,,A37,,,,
-"605",Dengue e Chikungunya,"A90,A91,A920",605,DENG,DENG,,,,,,,0,,A90 A91 A920,,,,
-"606",Difteria,A36,606,DIFT,DIFT,,,,,,,0,,A36,,,,
-"607",Esquitossomose,B65,607,ESQU,ESQU,,,,,,,0,,B65,,,,
-"608",Febre Amarela,A95,608,FAMA,FAMA,,,,,,,0,,A95,,,,
-"609",Febre Maculosa,A770,609,FMAC,FMAC,,,,,,,0,,A770,,,,
-"610",Febre Tifóide,A010,610,FTIF,FTIF,,,,,,,0,,A010,,,,
-"611",Hanseníase,A30,611,HANS,HANS,,,,,,,0,,A30,,,,
-"612",Hantavirose,B334,612,HANT,HANT,,,,,,,0,,B334,,,,
-"613",Intoxicação exógena,"T36,T37,T38,T39,T40,T41,T42,T43,T44,T45,T46,T47,T48,T49,T50,T51,T52,T53,T54,T55,T56,T57,T58,T59,T60,T61,T62,T63,T64,T65",613,IEXO,IEXO,,,,,,,0,,T36 T37 T38 T39 T40 T41 T42 T43 T44 T45 T46 T47 T48 T49 T50 T51 T52 T53 T54 T55 T56 T57 T58 T59 T60 T61 T62 T63 T64 T65,,,,
-"614",Leishmaniose Visceral,B550,614,LEIV,LEIV,,,,,,,0,,B550,,,,
-"615",Leptospirose,A27,615,LEPT,LEPT,,,,,,,0,,A27,,,,
-"616",Leishimaniose Tegumentar Americana,B551,616,LTAN,LTAN,,,,,,,0,,B551,,,,
-"617",Malária,"B50,B51,B52,B53,B54",617,MALA,MALA,,,,,,,0,,B50 B51 B52 B53 B54,,,,
-"618",Meningite,"A39,G00,G01,G02,G03",618,MENI,MENI,,,,,,,0,,A39 G00 G01 G02 G03,,,,
-"619",Peste,A20,619,PEST,PEST,,,,,,,0,,A20,,,,
-"620",Paralisia Flácida Aguda,A80,620,PFAN,PFAN,,,,,,,0,,A80,,,,
-"621",Raiva Humana,A82,621,RAIV,RAIV,,,,,,,0,,A82,,,,
-"622",Tetano Acidental,A35,622,TETA,TETA,,,,,,,0,,A35,,,,
-"623",Tetano Neonatal,A33,623,TETN,TETN,,,,,,,0,,A33,,,,
-"624",Tuberculose,"A15,A16,A17,A18,A19",624,TUBE,TUBE,,,,,,,0,,A15 A16 A17 A18 A19,,,,
-"625",Violência Interpessoal ou Autoprovocada,"X60,X61,X62,X63,X64,X65,X66,X67,X68,X69,X70,X71,X72,X73,X74,X75,X76,X77,X78,X79,X80,X81,X82,X83,X84,X85,X86,X87,X88,X89,X90,X91,X92,X93,X94,X95,X96,X97,X98,X99,Y00,Y01,Y02,Y03,Y04,Y05,Y06,Y07,Y08,Y09",625,VIOL,VIOL,,,,,,,0,,X60 X61 X62 X63 X64 X65 X66 X67 X68 X69 X70 X71 X72 X73 X74 X75 X76 X77 X78 X79 X80 X81 X82 X83 X84 X85 X86 X87 X88 X89 X90 X91 X92 X93 X94 X95 X96 X97 X98 X99 Y00 Y01 Y02 Y03 Y04 Y05 Y06 Y07 Y08 Y09,,,,
-901,Algumas doencas infecciosas e parasitarias (cap I),"A, B",701,CAP01,Algumas doencas infe,Algumas doencas infecciosas e parasitarias (cap I),Algumas doencas infecciosas e parasitarias (cap I),Algumas do,,,0,capitulo
-902,Neoplasias [tumores] (cap II),"C00,C01,C02,C03,C04,C05,C06,C07,C08,C09,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24,C25,C26,C30,C31,C32,C33,C34,C37,C38,C39,C40,C41,C43,C44,C45,C46,C47,C48,C49,C50,C51,C52,C53,C54,C55,C56,C57,C58,C60,C61,C62,C63,C64,C65,C66,C67,C68,C69,C70,C71,C72,C73,C74,C75,C76,C77,C78,C79,C80,C81,C82,C83,C84,C85,C88,C90,C91,C92,C93,C94,C95,C96,C97,D00,D01,D02,D03,D04,D05,D06,D07,D09,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48",702,CAP02,Neoplasias [tumores],Neoplasias [tumores] (cap II),Neoplasias [tumores] (cap II),Neoplasias,,,0,capitulo
-903,Doencas do sangue e dos orgaos hematopoeticos e alguns transtornos imunitarios (cap III),"D50,D51,D52,D53,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D80,D81,D82,D83,D84,D86,D89",703,CAP03,Doencas do sangue e,Doencas do sangue e dos orgaos hematopoeticos e alguns transtornos imunitarios (cap III),Doencas do sangue e dos orgaos hematopoeticos e al,Doencas do,,,0,capitulo
-904,Doencas endocrinas, nutricionais e metabolicas (cap IV),"E",704,CAP04,Doencas endocrinas,Doencas endocrinas, nutricionais e metabolicas (cap IV),Doencas endocrinas, nutricionais e metabolicas (ca,Doencas en,,,0,capitulo
-905,Transtornos mentais e comportamentais (cap V),"F",705,CAP05,Transtornos mentais,Transtornos mentais e comportamentais (cap V),Transtornos mentais e comportamentais (cap V),Transtorno,,,0,capitulo
-906,Doencas do sistema nervoso (cap VI),"G",706,CAP06,Doencas do sistema n,Doencas do sistema nervoso (cap VI),Doencas do sistema nervoso (cap VI),Doencas do,,,0,capitulo
-907,Doencas do olho e anexos (cap VII),"H00,H01,H02,H03,H04,H05,H06,H10,H11,H13,H15,H16,H17,H18,H19,H20,H21,H22,H25,H26,H27,H28,H30,H31,H32,H33,H34,H35,H36,H40,H42,H43,H44,H45,H46,H47,H48,H49,H50,H51,H52,H53,H54,H55,H57,H58,H59",707,CAP07,Doencas do olho e an,Doencas do olho e anexos (cap VII),Doencas do olho e anexos (cap VII),Doencas do,,,0,capitulo
-908,Doencas do ouvido e da apofise mastoide (cap VIII),"H60,H61,H62,H65,H66,H67,H68,H69,H70,H71,H72,H73,H74,H75,H80,H81,H82,H83,H90,H91,H92,H93,H94,H95",708,CAP08,Doencas do ouvido e,Doencas do ouvido e da apofise mastoide (cap VIII),Doencas do ouvido e da apofise mastoide (cap VIII),Doencas do,,,0,capitulo
-909,Doencas do aparelho circulatorio (cap IX),"I",709,CAP09,Doencas do aparelho,Doencas do aparelho circulatorio (cap IX),Doencas do aparelho circulatorio (cap IX),Doencas do,,,0,capitulo
-910,Doencas do aparelho respiratorio (cap X),"J",710,CAP10,Doencas do aparelho,Doencas do aparelho respiratorio (cap X),Doencas do aparelho respiratorio (cap X),Doencas do,,,0,capitulo
-911,Doencas do aparelho digestivo (cap XI),"K",711,CAP11,Doencas do aparelho,Doencas do aparelho digestivo (cap XI),Doencas do aparelho digestivo (cap XI),Doencas do,,,0,capitulo
-912,Doencas da pele e do tecido subcutaneo (cap XII),"L",712,CAP12,Doencas da pele e do,Doencas da pele e do tecido subcutaneo (cap XII),Doencas da pele e do tecido subcutaneo (cap XII),Doencas da,,,0,capitulo
-913,Doencas do sistema osteomuscular e do tecido conjuntivo (cap XIII),"M",713,CAP13,Doencas do sistema o,Doencas do sistema osteomuscular e do tecido conjuntivo (cap XIII),Doencas do sistema osteomuscular e do tecido conju,Doencas do,,,0,capitulo
-914,Doencas do aparelho geniturinario (cap XIV),"N",714,CAP14,Doencas do aparelho,Doencas do aparelho geniturinario (cap XIV),Doencas do aparelho geniturinario (cap XIV),Doencas do,,,0,capitulo
-915,Gravidez, parto e puerperio (cap XV),"O00,O01,O02,O03,O04,O05,O06,O07,O08,O10,O11,O12,O13,O14,O15,O16,O20,O21,O22,O23,O24,O25,O26,O28,O29,O30,O31,O32,O33,O34,O35,O36,O40,O41,O42,O43,O44,O45,O46,O47,O48,O60,O61,O62,O63,O64,O65,O66,O67,O68,O69,O70,O71,O72,O73,O74,O75,O80,O81,O82,O83,O84,O85,O86,O87,O88,O89,O90,O91,O92,O94,O95,O96,O97,O98,O99,U88",715,CAP15,Gravidez, parto e pu,Gravidez, parto e puerperio (cap XV),Gravidez, parto e puerperio (cap XV),Gravidez, ,,,0,capitulo
-916,Algumas afeccoes originadas no periodo perinatal (cap XVI),"P",716,CAP16,Algumas afeccoes ori,Algumas afeccoes originadas no periodo perinatal (cap XVI),Algumas afeccoes originadas no periodo perinatal (,Algumas af,,,0,capitulo
-917,Malformacoes congenitas, deformidades e anomalias cromossomicas (cap XVII),"Q",717,CAP17,Malformacoes congeni,Malformacoes congenitas, deformidades e anomalias cromossomicas (cap XVII),Malformacoes congenitas, deformidades e anomalias ,Malformaco,,,0,capitulo
-918,Sintomas, sinais e achados anormais de exames clinicos e de laboratorio (cap XVIII),"R",718,CAP18,Sintomas, sinais e a,Sintomas, sinais e achados anormais de exames clinicos e de laboratorio (cap XVIII),Sintomas, sinais e achados anormais de exames clin,Sintomas, ,,,0,capitulo
-919,Lesoes, envenenamento e outras consequencias de causas externas (cap XIX),"S, T",719,CAP19,Lesoes, envenenament,Lesoes, envenenamento e outras consequencias de causas externas (cap XIX),Lesoes, envenenamento e outras consequencias de ca,Lesoes, en,,,0,capitulo
-920,Causas externas de morbidade e de mortalidade (cap XX),"V, W, X, Y",720,CAP20,Causas externas de m,Causas externas de morbidade e de mortalidade (cap XX),Causas externas de morbidade e de mortalidade (cap,Causas ext,,,0,capitulo
-921,Fatores que influenciam o estado de saude... (cap XXI),"Z",721,CAP21,Fatores que influenc,Fatores que influenciam o estado de saude... (cap XXI),Fatores que influenciam o estado de saude... (cap ,Fatores qu,,,0,capitulo
-722,Codigos para propositos especiais (cap XXII),"U04,U80,U81,U89,U99",722,CAP22,Codigos para proposi,Codigos para propositos especiais (cap XXII),Codigos para propositos especiais (cap XXII),Codigos pa,,,0,capitulo
+nu_diretriz,no_diretriz,co_cid,sg_pcdt,no_abreviado,no_diretriz_extenso,no_diretriz50,sg_tipo,st_rara
+1,Acidente Vascular Cerebral Isquêmico Agudo,"I630,I631,I632,I633,I634,I635,I636,I638,I639,I650,I651,I652,I653,I658,I659,I660,I661,I662,I663,I664,I668,I669",AVC,avc_isquem,Trombólise no Acidente Vascular Cerebral (AVC) Isquêmico Agudo,Acidente Vascular Cerebral Isquêmico Agudo,pcdt,0
+2,Acne grave,"L700,L701,L708",ACN,acne,Isotretinoína no tratamento da acne grave,Acne grave,Protocolos,0
+3,Acromegalia,E220,ACRO,acromegali,Acromegalia,Acromegalia,pcdt,1
+4,Adenocarcinoma de Próstata,"C61,D75",PROS,c_prostata,Adenocarcinoma de Próstata,Adenocarcinoma de Próstata,ddt,0
+5,Anemia Hemolítica Autoimune,"D590,D591,D460,D461,D467,D600,D608,D610,D611,D612,D613,D618,D70,Z948",AHA,anemia_hem,Anemia Hemolítica Autoimune,Anemia Hemolítica Autoimune,pcdt,1
+6,Anemia por Deficiência de Ferro,"D500,D508",FER,anemia_fer,Anemia por Deficiência de Ferro,Anemia por Deficiência de Ferro,pcdt,0
+7,Angioedema,D841,ANGI,angiodema,Angioedema associado à deficiência de C1 esterase,Angioedema,pcdt,1
+8,Aorta Torácica Descendente,I712,ATD,aorta_tora,Diretrizes Brasileiras para Utilização de Endoprótese em Aorta Torácica Descendente,Aorta Torácica Descendente,Diretrizes,0
+9,Artrite Idiopática Juvenil,"M080,M081,M082,M083,M084,M088,M089",AIJ,artrite_ju,Artrite Idiopática Juvenil (AIJ),Artrite Idiopática Juvenil,pcdt,1
+10,Artrite Psoríaca,"M070,M072,M073",APSO,artrite_ps,Artrite Psoríaca,Artrite Psoríaca,pcdt,0
+11,Artrite Reativa,"M021,M023,M032,M036",AREA,artrite_rea,Artrite Reativa,Artrite Reativa,pcdt,0
+12,Artrite Reumatoide,"M050,M051,M052,M053,M058,M060,M068",AREU,artrite_reu,Artrite Reumatoide,,,0
+13,Asma,"J450,J451,J458,J45",ASMA,asma,Asma,Asma,pcdt,0
+14,Atrofia Muscular Espinhal,"G120,G121",AME,atrofia,Atrofia Muscular Espinhal 5q Tipo 1,Atrofia Muscular Espinhal,pcdt,1
+15,COVID-19,"B342,U04,U049,U071,U072,U089,U099,U109,U129",COV,covid_19,Diretrizes Brasileiras para Tratamento Hospitalar do Paciente com COVID-19,COVID-19,Diretrizes,0
+16,Carcinoma Diferenciado de Tireoide,C73,CTIR,c_tireoide,Carcinoma Diferenciado de Tireoide,,,0
+17,Carcinoma de Células Renais,C64,CREN,c_renal,Carcinoma de Células Renais,Carcinoma de Células Renais,pcdt,0
+18,Carcinoma de Mama,"C500,C501,C502,C503,C504,C505,C506,C508,C509",CMAM,c_mama,Carcinoma de Mama,Carcinoma de Mama,ddt,0
+19,Carcinoma de estômago e esôfago,"C150,C151,C152,C153,C154,C155,C158,C159,C160,C161,C162,C163,C164,C165,C166,C168,C169,C170,C171,C172,C173,C178,C179,C18,C180,C181,C182,C183,C184,C185,C186,C187,C188,C189,C19,C20,C268,C474,C481,C493",CEES,c_estomago,Carcinoma de estômago e esôfago,,,0
+20,Carcinoma hepatocelular,C22,CHEP,c_hepatocel,Carcinoma hepatocelular,,,0
+21,Colangite Biliar Primária; Câncer de Fígado,"C220,C221,C222,C223,C224,C227,C229",CFIG,c_figado,Colangite Biliar Primária; Câncer de Fígado,,,1
+22,Comportamento Agressivo no Autismo,"F840,F841,F843,F845,F848",AUT,autismo,Comportamento Agressivo no Transtorno do Espectro do Autismo,Comportamento Agressivo no Autismo,pcdt,0
+23,Câncer de Cabeça e Pescoço,"C00,C01,C02,C03,C04,C05,C06,C09,C10,C11,C12,C13,C14,C32,",CCP,c_cabeca,Câncer de Cabeça e Pescoço,Câncer de Cabeça e Pescoço,pcdt,0
+24,Câncer de Pulmão,"C34,C340,C341,C342,C343,C348,C349",CPUL,c_pulmao,Câncer de Pulmão,Câncer de Pulmão,pcdt,0
+25,Deficiência Intelectual,"F78,F780,F781,F788,F789",DEFI,def_intele,Diagnóstico Etiológico da Deficiência Intelectual,Deficiência Intelectual,Protocolos,0
+26,Deficiência de Biotinidase,E889,BIOT,biotinidas,Deficiência de Biotinidase,Deficiência de Biotinidase,pcdt,1
+27,Degeneração Macular Relacionada com a Idade,H353,MACI,macular,Degeneração Macular Relacionada com a Idade (forma neovascular),Degeneração Macular Relacionada com a Idade,pcdt,0
+28,Dermatomiosite e Polimiosite,"M330,M331,M332",DMPO,dermatomio,Dermatomiosite e Polimiosite,Dermatomiosite e Polimiosite,pcdt,1
+29,Diabete Melito Tipo 1,"E100,E101,E102,E103,E104,E105,E106,E107,E108,E109",DM1,diabetes_1,Diabete Melito Tipo 1,Diabete Melito Tipo 1,pcdt,0
+30,Diabete Melito Tipo 2; Retinopatia Diabética,"E10,E11,E112,E113,E114,E115,E116,E117,E118,E119,E12,E13,E14,H360",DM2,diabetes_2,Diabete Melito Tipo 2; Retinopatia Diabética,,,0
+31,Diabetes Insípido,E232,DINS,diabetes_ins,Diabetes Insípido,Diabetes Insípido,pcdt,1
+32,Dislipidemia para a Prevenção de Eventos Cardiov.,"E780,E781,E782,E783,E784,E785,E786,E788",DISL,dislipidem,Dislipidemia para a Prevenção de Eventos Cardiovasculares e Pancreatite,Dislipidemia para a Prevenção de Eventos Cardiov.,pcdt,0
+33,Distonias focais e Espasmo Hemifacial,"G243,G244,G245,G248,G513,G518",DFE,distonias,Distonias e Espasmo Hemifacial,Distonias focais e Espasmo Hemifacial,pcdt,1
+34,Doença Celíaca,K900,DCE,celiaca,Doença Celíaca,Doença Celíaca,pcdt,0
+35,Doença Enxerto Contra Hospedeiro e no Mieloma,T860,DMM,enxerto_mi,"Talidomida no tratamento da Doença Enxerto Contra Hospedeiro
+ e no Mieloma Múltiplo",Doença Enxerto Contra Hospedeiro e no Mieloma,Protocolos,1
+36,Doença Falciforme,"D561,D568,D570,D571,D572",FAL,falciforme,Doença Falciforme,Doença Falciforme,pcdt,0
+37,Doença Pulmonar Obstrutiva Crônica DPOC,"J440,J441,J448,J44",DPO,dpoc,Doença Pulmonar Obstrutiva Crônica DPOC,,,0
+38,Doença Renal Crônica,"E550,E559,E643,E833,M830,M831,M832,M833,M838,N180,N182,N183,N184,N185,N188,N250",DRC,renal_cron,Doença Renal Crônica,,,0
+39,Doença de Alzheimer,"F000,F001,F002,G300,G301,G308",DAZ,alzheimer,Doença de Alzheimer,Doença de Alzheimer,pcdt,0
+41,Doença de Crohn,"K500,K501,K508",CRN,crohn,Doença de Crohn,Doença de Crohn,pcdt,0
+42,Doença de Gaucher,E752,GAU,gaucher,Doença de Gaucher,Doença de Gaucher,pcdt,1
+43,Doença de Paget,"M880,M888",PAG,paget,Doença de Paget,Doença de Paget,pcdt,1
+44,Doença de Parkinson,G20,PKS,parkinson,Doença de Parkinson,Doença de Parkinson,pcdt,0
+45,Doença de Pompe,E740,POP,pompe,Doença de Pompe,Doença de Pompe,pcdt,1
+46,Doença de Wilson,E830,WIL,wilson,Doença de Wilson,Doença de Wilson,pcdt,1
+47,Dor Crônica,"R521,R522,R52",DCRN,dor_cronic,Dor Crônica,Dor Crônica,pcdt,0
+48,Endometriose,"N800,N801,N802,N803,N804,N805,N808",END,endometrio,Endometriose,Endometriose,pcdt,0
+49,Epidermólise Bolhosa,"L123,Q810,Q811,Q812,Q818,Q819",EPM,epidermoli,Epidermólise Bolhosa Hereditária e Adquirida,Epidermólise Bolhosa,pcdt,1
+50,Epilepsia,"G400,G401,G402,G403,G404,G405,G406,G407,G408,G40",EPI,epilepsia,Epilepsia,Epilepsia,pcdt,0
+51,Esclerose Lateral Amiotrófica,G122,ELA,esclerose_la,Esclerose Lateral Amiotrófica,Esclerose Lateral Amiotrófica,pcdt,1
+52,Esclerose Múltipla,G35,EM,esclerose_m,Esclerose Múltipla,Esclerose Múltipla,pcdt,1
+53,Esclerose Sistêmica,"M340,M341,M348",ESC,esclerose_s,Esclerose Sistêmica,Esclerose Sistêmica,pcdt,1
+54,Espasticidade,"G041,G800,G801,G802,G811,G821,G824,I690,I691,I692,I693,I694,I698,T905,T908",ESP,espasticide,Espasticidade,Espasticidade,pcdt,0
+55,Espondilite Ancilosante,"M45,M468",EANC,espondilite,Espondilite Ancilosante,Espondilite Ancilosante,pcdt,0
+56,Espondilose,"M471,M472,M478",ESPD,espondilose,Espondilose,Espondilose,pcdt,0
+57,Esquizofrenia,"F200,F201,F202,F203,F204,F205,F206,F208",ESQZ,esquizofrenia,Esquizofrenia,Esquizofrenia,pcdt,0
+58,Fenilcetonúria,"E700,E701,E70",FEN,fenilcetonuira,Fenilcetonúria,Fenilcetonúria,pcdt,1
+59,Fibrose Cística,"E840,E841,E848,E84",FCI,fibrose,Fibrose Cística,,,1
+60,Glaucoma,"H401,H402,H403,H404,H405,H406,H408,Q150",GLA,glaucoma,Glaucoma,Glaucoma,pcdt,0
+62,Hemangioma Infantil,D180,HEI,hemangioma,Hemangioma Infantil,Hemangioma Infantil,pcdt,0
+63,Hemofilia A e inibidores do fator VIII,"D66,D683",HAF,hemofila_f,Emicizumabe para tratamento de indivíduos com hemofilia A e inibidores do fator VIII refratários ao,Hemofilia A e inibidores do fator VIII,Protocolos,1
+64,Hemoglobinúria Paroxística Noturna,D595,HPN,hemoglobin,Hemoglobinúria Paroxística Noturna,Hemoglobinúria Paroxística Noturna,pcdt,1
+65,Hepatite Autoimune,K754,HAU,hepatite_a,Hepatite Autoimune,Hepatite Autoimune,pcdt,1
+66,Hepatite B - Coinfecções e Profilaxia pós-transp.,"B160,B162,B180,B181",HEB,hepatite_b,Hepatite B - Coinfecções e Profilaxia pós-transp.,,,0
+67,Hepatite C e coinfecções,"B171,B182",HCC,hepatite_c,Hepatite C e coinfecções,Hepatite C e coinfecções,pcdt,0
+68,Hidradenite Supurativa,L732,HIS,hidradenit,Hidradenite Supurativa,Hidradenite Supurativa,pcdt,0
+69,Hiperplasia Adrenal Congênita,E250,HAC,adrenal_co,Hiperplasia Adrenal Congênita,Hiperplasia Adrenal Congênita,pcdt,1
+70,Hiperprolactinemia,E221,HIC,hiperprola,Hiperprolactinemia,Hiperprolactinemia,pcdt,0
+71,Hipertensão Arterial Pulmonar,"I270,I272,I278",HAP,hipertensa,Hipertensão Arterial Pulmonar,Hipertensão Arterial Pulmonar,pcdt,1
+72,Hipoparatireoidismo,"E200,E201,E208,E892",HIP,hipopparat,Hipoparatireoidismo,Hipoparatireoidismo,pcdt,1
+73,Hipotireoidismo Congênito,"E030,E031",HPC,hipotireoi,Hipotireoidismo Congênito,Hipotireoidismo Congênito,pcdt,1
+74,Homocistinúria Clássica,E721,HOM,homocistin,Homocistinúria Clássica,Homocistinúria Clássica,pcdt,1
+75,Ictioses Hereditárias,"Q800,Q801,Q802,Q803,Q808,Q809",ICT,ictiose,Ictioses Hereditárias,Ictioses Hereditárias,pcdt,1
+76,Imunodeficiência Primária,"D800,D801,D803,D805,D806,D807,D808,D830,D832,D838",IDP,imunosufic,Imunodeficiência Primária com predominância de defeitos de Anticorpos,Imunodeficiência Primária,pcdt,1
+77,Imunossupressão no Transplante Cardíaco,"T862,Z941",TXC,im_trans_card,Imunossupressão no Transplante Cardíaco,Imunossupressão no Transplante Cardíaco,pcdt,0
+78,Imunossupressão no Transplante Hepático,"T864,Z944",ITH,im_trans_hep,Imunossupressão no Transplante Hepático,,,0
+79,Imunossupressão no Transplante Renal,"T861,Z940",REN,im_trans_ren,Imunossupressão no Transplante Renal,Imunossupressão no Transplante Renal,pcdt,0
+80,Incontinência Urinária não Neurogênica,"N393,N394,R32",URI,incontinen,Incontinência Urinária não Neurogênica,Incontinência Urinária não Neurogênica,pcdt,0
+81,Infarto Agudo do Miocárdio,"I200,I201,I210,I211,I212,I213,I214,I219,I220,I221,I228,I229,I230,I231,I232,I233,I234,I235,I236,I238,I240,I248,I249",IAM,infarto,Infarto Agudo do Miocárdio,Infarto Agudo do Miocárdio,Linhas de,0
+82,Insuficiência Adrena e Hipopituitarismo,"E230,E233,E271,E272,E273,E274",IAH,insuf_renal,Insuficiência Adrena e Hipopituitarismo,,,1
+83,Insuficiência Cardíaca - Fração de Ejeção Reduzida,"I500,I501,I509",ICR,insuf_card,Diretrizes Brasileiras para Diagnóstico e Tratamento da Insuficiência Cardíaca com Fração de Ejeção,Insuficiência Cardíaca - Fração de Ejeção Reduzida,Diretrizes,0
+84,Insuficiência Pancreática Exócrina,"K860,K861,K903",IPE,insuf_panc,Insuficiência Pancreática Exócrina,Insuficiência Pancreática Exócrina,pcdt,1
+85,Intoxicação aguda por cianeto,"T573,T650",ITC,intox_cian,Hidroxocobalamina na intoxicação aguda por cianeto,Intoxicação aguda por cianeto,Protocolos,0
+86,Intoxicações por agrotóxicos,"T60,X48,X68,X87,Y18",ITA,intox_agro,Diretrizes Brasileiras para diagnóstico e tratamento das intoxicações por agrotóxicos,Intoxicações por agrotóxicos,Diretrizes,0
+87,Leimioma de útero,"D250,D251,D252",LEI,leimioma,Leimioma de útero,Leimioma de útero,pcdt,0
+88,Leucemia Linfoblástica Aguda Crom. Philad.,"C835,C910",LLA,leucemia_lin,Leucemia Linfoblástica Aguda Crom. Philad.,,,1
+89,Leucemia Mieloide Aguda,"C920,C921,C923,C924,C925,C927,C930,C931,C937,C940,C942,C943",LMA,leucemia_mie,Leucemia Mieloide Aguda,,,1
+90,Leucemia/Linfoma Associação ao Vírus HTLV-1,"C844,C915",LHT,leucemia_htlv,Zidovudina para tratamento do Adulto com Leucemia/Linfoma Associação ao Vírus HTLV-1,Leucemia/Linfoma Associação ao Vírus HTLV-1,Protocolos,1
+91,Linfangioleiomiomatose,J848,LAM,lam,Linfangioleiomiomatose,Linfangioleiomiomatose,pcdt,1
+92,Linfoma Difuso de Grandes Células B,C833,LDG,linfo_cel_b,Linfoma Difuso de Grandes Células B,,,1
+93,Linfoma Folicular,"C820,C821,C822,C827,C829",LIN,linfo_folic,Linfoma Folicular,Linfoma Folicular,ddt,1
+94,Linfoma de Hodgkin,"C810,C811,C812,C813,C817,C819",LHK,linfo_hodg,Linfoma de Hodgkin,,,1
+95,Lúpus Eritematoso Sistêmico,"L930,L931,M321,M328",LES,lupus,Lúpus Eritematoso Sistêmico,Lúpus Eritematoso Sistêmico,pcdt,0
+96,Melanoma Cutâneo,"C43,C430,C431,C432,C433,C434,C436,C437,C438,C439,D03,D030,D031,D032,D033,D034,D035,D036,D037",MEL,c_mieloma_cut,Melanoma Maligno Cutâneo,Melanoma Cutâneo,ddt,0
+97,Mesotelioma,"C450,C459",MES,c_mesotelioma,Mesotelioma,,,1
+98,Miastenia Gravis,G700,MG,miastenia,Miastenia Gravis,Miastenia Gravis,ddt,1
+99,Mieloma Múltiplo,"C900,C901,C902,D472",MM,c_mieloma_mul,Mieloma Múltiplo,Mieloma Múltiplo,ddt,1
+100,Mucopolissacaridose tipo I,E760,MC1,mucopolis_1,Mucopolissacaridose tipo I,Mucopolissacaridose tipo I,pcdt,1
+101,Mucopolissacaridose tipo II,E761,MC2,mucopolis_2,Mucopolissacaridose tipo II,Mucopolissacaridose tipo II,pcdt,1
+102,"Mucopolissacaridose tipo IV, VI e VII",E762,MC4,mucopolis_4_6_7,"Mucopolissacaridose tipo IV, VI e VII",,,1
+103,Neoplasia Maligna Epitelial de Ovário,"C56,C570,C786",OVA,c_ovario,Neoplasia Maligna Epitelial de Ovário,Neoplasia Maligna Epitelial de Ovário,ddt,0
+104,Osteogênese Imperfeita,Q780,OSI,osteogenese,Osteogênese Imperfeita,Osteogênese Imperfeita,pcdt,1
+105,Osteoporose,"M800,M801,M802,M803,M804,M805,M808,M810,M811,M812,M813,M814,M815,M816,M818,M820,M821,M828",OST,osteoporose,Osteoporose,Osteoporose,pcdt,0
+106,Polineuropatia Amiloidótica Familiar,E851,PAF,polineurop,Polineuropatia Amiloidótica Familiar,Polineuropatia Amiloidótica Familiar,pcdt,1
+107,Psoríase,"L400,L401,L404,L408",PSO,psoriase,Psoríase,Psoríase,pcdt,0
+108,Puberdade Precoce Central,E228,PUB,puberdade,Puberdade Precoce Central,Puberdade Precoce Central,pcdt,0
+109,Púrpura Trombocitopênica Idiopática,D693,PTI,purpura,Púrpura Trombocitopênica Idiopática,Púrpura Trombocitopênica Idiopática,pcdt,1
+110,Retocolite Ulcerativa,"K510,K512,K513,K515,K518",RET,retocolite,Retocolite Ulcerativa,Retocolite Ulcerativa,pcdt,0
+111,Sobrecarga de Ferro,"E831,T454",SFE,sobrecarga_fe,Sobrecarga de Ferro,Sobrecarga de Ferro,pcdt,1
+112,Sobrepeso e Obesidade,"E66,E660,E661,E662,E668,E669",SOB,obesidade,Sobrepeso e Obesidade,,,0
+113,Síndrome Hipereosinofílica com mesilato de imat.,D721,SHE,she,Síndrome Hipereosinofílica com mesilato de imat.,,,1
+114,Síndrome Mielodisplásica,"D460,D461,D464,D467",MIE,mielodispl,Talidomida no tratamento da Síndrome Mielodisplásica,Síndrome Mielodisplásica,Protocolos,1
+115,Síndrome Nefrótica Primária,"N040,N041,N042,N043,N044,N045,N046,N047,N048,N049",SNP,sind_nefr,Síndrome Nefrótica Primária,,,1
+116,Síndrome de Guillain-Barré,G610,SGB,guillain_b,Síndrome de Guillain-Barré,Síndrome de Guillain-Barré,pcdt,1
+117,Síndrome de Ovários Policísticos,"E282,L680",SOP,ovario_pol,Síndrome de Ovários Policísticos,Síndrome de Ovários Policísticos,pcdt,0
+118,Síndrome de Turner,"Q960,Q961,Q962,Q963,Q964,Q968",TUR,turner,Síndrome de Turner,Síndrome de Turner,pcdt,1
+119,Tabagismo,"F171,F172,F173,T652,Z720",TABG,tabagismo,Tabagismo,Tabagismo,pcdt,0
+120,Transtorno Afetivo Bipolar do tipo I,"F311,F312,F313,F314,F315,F316,F317",BIP,bipolar,Transtorno Afetivo Bipolar do tipo I,Transtorno Afetivo Bipolar do tipo I,pcdt,0
+121,Transtorno Deficit de Atenção Hiperatividade TDAH,"F900,F901,F908,F909",TDA,tdah,Transtorno Deficit de Atenção Hiperatividade,,,0
+122,Transtorno Esquizoafetivo,"F250,F251,F252",TEZ,esquizoafe,Transtorno Esquizoafetivo,Transtorno Esquizoafetivo,pcdt,0
+123,Tromboembolismo Venoso em Gestantes com Trombof.,"D688,I820,I821,I822,I823,I828,O223,O225",TVG,trombo,Tromboembolismo Venoso em Gestantes com Trombof.,,,0
+124,Tumor Cerebral - Adultos,"C710,C711,C712,C713,C714,C715,C716,C717,C718,C719",TCA,c_cerebral,Tumor Cerebral - Adultos,Tumor Cerebral - Adultos,ddt,1
+125,Uveítes Não-Infecciosas,"H150,H201,H301,H302,H308",UVE,uveite,Uveítes Não-Infecciosas,Uveítes Não-Infecciosas,pcdt,1
+126,Síndrome de Down,"Q90,Q900,Q901,Q902,Q909",T21,sin_Down,Síndrome de Down (trissomia do cromossomo XXI),,,0
+127,Doença de Huntington,G10,HUNT,Huntington,Doença de Huntington,,,1
+600,Doenças raras,"A04,A05,A20,A33,A82,C220,C221,C222,C223,C224,C227,C229,C450,C459,C710,C711,C712,C713,C714,C715,C716,C717,C718,C719,C810,C811,C812,C813,C817,C819,C820,C821,C822,C827,C829,C833,C835,C910,C844,C915,C900,C901,C902,D472,C920,C921,C923,C924,C925,C927,C930,C931,C937,C940,C942,C943,D460,D461,D464,D467,D590,D591,D460,D461,D467,D600,D608,D610,D611,D612,D613,D618,D70,Z948,D595,D66,D683,D693,D721,D800,D801,D803,D805,D806,D807,D808,D830,D832,D838,D841,E030,E031,E200,E201,E208,E892,E220,E230,E233,E271,E272,E273,E274,E232,E250,E700,E701,E70,E721,E740,E752,E760,E761,E762,E830,E831,T454,E840,E841,E848,E84,E851,E889,G10,G120,G121,G122,G243,G244,G245,G248,G513,G518,G35,G610,G700,H150,H201,H301,H302,H308,I270,I272,I278,J848,K754,K860,K861,K903,L123,Q810,Q811,Q812,Q818,Q819,M080,M081,M082,M083,M084,M088,M089,M330,M331,M332,M340,M341,M348,M880,M888,N040,N041,N042,N043,N044,N045,N046,N047,N048,N049,P35,Q780,Q800,Q801,Q802,Q803,Q808,Q809,Q960,Q961,Q962,Q963,Q964,Q968,T860",RARA,raras,Doenças raras,Doenças raras,,
+601,Acidente de Trabalho com Material Biológico,Z20,ACBI,ACBI,Acidente de Trabalho com Material Biológico,Acidente de Trabalho com Material Biológico,sinan,0
+602,Acidente de Trabalho Grave,Y96,ACGR,ACGR,Acidente de Trabalho Grave,Acidente de Trabalho Grave,sinan,0
+604,Acidente por Animais Peçonhentos,"X20,X21,X22,X23,X24,X25,X26,X27,X28,X29",ANIM,ANIM,Acidente por Animais Peçonhentos,Acidente por Animais Peçonhentos,sinan,0
+605,Atendimento Antirrábico Humano,W64,ANTR,ANTR,Atendimento Antirrábico Humano,Atendimento Antirrábico Humano,sinan,0
+606,Botulismo e outras intoxicações alimentares bacterianas,"A04,A05",BOTU,BOTU,Botulismo,Botulismo,sinan,1
+607,Câncer Relacionado ao Trabalho,"C30,C31,C32,C33,C34,C45,C67,C22,C44,C43,C81,C82,C83,C84,C85,C88,C90,C91,C92,C93,C94,C95,C96",CANC,CANC,Câncer Relacionado ao Trabalho,Câncer Relacionado ao Trabalho,sinan,0
+608,Doença de Chagas,"B57,B570,B571,B572,B573,B574,B575,K231,K931",CHA,chagas,Doença de Chagas,Doença de Chagas,pcdt,0
+609,Chikungunya e outras febres virais,A92,CHIK,CHIK,Febre de Chikungunya,Febre de Chikungunya,sinan,0
+610,Cólera,A00,COLE,COLE,Cólera,Cólera,sinan,0
+611,Coqueluche,A37,COQU,COQU,Coqueluche,Coqueluche,sinan,0
+613,Dengue,"A90,A91",DENG,DENG,Dengue,Dengue,sinan,0
+614,Dermatoses Ocupacionais,"L23,L24,L25,L30",DERM,DERM,Dermatoses Ocupacionais,Dermatoses Ocupacionais,sinan,0
+615,Difteria,A36,DIFT,DIFT,Difteria,Difteria,sinan,0
+616,Esquistossomose,B65,ESQU,ESQU,Esquistossomose,Esquistossomose,sinan,0
+617,Febre Maculosa,A77,FMAC,FMAC,Febre Maculosa,Febre Maculosa,sinan,0
+618,Febe Tifóide,A01,FTIF,FTIF,Febe Tifóide,Febe Tifóide,sinan,0
+619,Hanseníase,"A30,B92,A31",HANS,HANS,Hanseníase,Hanseníase,sinan,0
+620,Hantavirose,A98,HANT,HANT,Hantavirose,Hantavirose,sinan,0
+621,Hepatites Virais,"B15,B16,B17,B18,B19",HEPA,HEPA,Hepatites Virais,Hepatites Virais,sinan,0
+623,Gravidez - Doenças infecciosas e parasitárias,O98,HIVE,HIVE,Gravidez - Doenças infecciosas e parasitárias,HIV em Gestante,sinan,0
+624,HIV,"B20,B21,B22,B23,B24",HIVG,HIVG,HIV,HIV,sinan,0
+625,Intoxicação Exógena,"T36,T37,T38,T39,T40,T41,T42,T43,T44,T45,T46,T47,T48,T49,T50,T51,T52,T53,T54,T55,T56,T57,T58,T59,T60,T61,T62,T63,T64,T65",IEXO,IEXO,Intoxicação Exógena,Intoxicação Exógena,sinan,0
+626,Leishmaniose Visceral,B55,LEIV,LEIV,Leishmaniose Visceral,Leishmaniose Visceral,sinan,0
+627,Leptospirose,A27,LEPT,LEPT,Leptospirose,Leptospirose,sinan,0
+628,LER/DORT,"M60,M65,M70,M75",LERD,LERD,LER/DORT,LER/DORT,sinan,0
+629,Leishmaniose Tegumentar Americana,B55,LTAN,LTAN,Leishmaniose Tegumentar Americana,Leishmaniose Tegumentar Americana,sinan,0
+630,Malária,"B50,B51,B52,B53,B54",MALA,MALA,Malária,Malária,sinan,0
+631,Meningite,"A39,G00,G01,G02,G03,A17,B00,B01,B02,B05",MENI,MENI,Meningite,Meningite,sinan,0
+632,"Trabalho (Burnout, adaptação, fadiga)","Z73,Z56",MENT,MENT,Transtornos Mentais Relacionados ao Trabalho,Transtornos Mentais Relacionados ao Trabalho,sinan,0
+633,Tracoma,A71,NTRA,NTRA,Notificação de Tracoma,Notificação de Tracoma,sinan,0
+634,Perda Auditiva Induzida por Ruído (PAIR),H83,PAIR,PAIR,Perda Auditiva Induzida por Ruído (PAIR),Perda Auditiva Induzida por Ruído (PAIR),sinan,0
+635,Peste,A20,PEST,PEST,Peste,Peste,sinan,1
+636,Paralisia Flácida Aguda,"G04,G37",PFAN,PFAN,Paralisia Flácida Aguda,Paralisia Flácida Aguda,sinan,0
+637,Pneumoconioses,"J60,J61,J62,J63,J64,J65,J66,J67",PNEU,PNEU,Pneumoconioses,Pneumoconioses,sinan,0
+638,Raiva Humana,A82,RAIV,RAIV,Raiva Humana,Raiva Humana,sinan,1
+639,Rotavírus,A08,ROTA,ROTA,Rotavírus,Rotavírus,sinan,0
+640,Surto de Doenças Transmitidas por Alimentos,"A00,A01,A02,A03,A04,A05,A08,A09,B15,B16,B17,B18,B19,K52,T62,T65",SDTA,SDTA,Surto de Doenças Transmitidas por Alimentos,Surto de Doenças Transmitidas por Alimentos,sinan,0
+641,Sífilis Adquirida,"A50,A51,A52,A53",SIFA,SIFA,Sífilis Adquirida,Sífilis Adquirida,sinan,0
+642,Sífilis Congênita ,A50,SIFC,SIFC,Sífilis Congênita ,Sífilis Congênita,sinan,0
+644,Síndrome da Rubéola Congênita,P35,SRC,SRC,Síndrome da Rubéola Congênita,Síndrome da Rubéola Congênita,sinan,1
+645,Tétano Acidental,A35,TETA,TETA,Tétano Acidental,Tétano Acidental,sinan,0
+646,Tétano Neonatal,A33,TETN,TETN,Tétano Neonatal,Tétano Neonatal,sinan,1
+647,Toxoplasmose,"B58,P371",TOXC,TOXC,Toxoplasmose,Toxoplasmose Congênita,sinan,0
+650,Tuberculose,"A15,A16,A17,A18,A19,B90",TUBE,TUBE,Tuberculose,Tuberculose,sinan,0
+651,Varicela,B01,VARC,VARC,Varicela,Varicela,sinan,0
+652,Violência Interpessoal e Autoprovocada,"X85,X86,X87,X88,X89,X90,X91,X92,X93,X94,X95,X96,X97,X98,X99,Y00,Y01,Y02,Y03,Y04,Y05,Y06,Y07,Y08,Y09",VIOL,VIOL,Violência Interpessoal e Autoprovocada,Violência Interpessoal e Autoprovocada,sinan,0
+653,Doença pelo Vírus Zika,A92,ZIKA,ZIKA,Doença pelo Vírus Zika,Doença pelo Vírus Zika,sinan,0
+901,Algumas doencas infecciosas e parasitarias (cap I),"A,B",INFE,infec,Algumas doencas infecciosas e parasitarias (cap I),Algumas doencas infecciosas e parasitarias (cap I),capitulo,0
+902,Neoplasias [tumores] (cap II),"C00,C01,C02,C03,C04,C05,C06,C07,C08,C09,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24,C25,C26,C30,C31,C32,C33,C34,C37,C38,C39,C40,C41,C43,C44,C45,C46,C47,C48,C49,C50,C51,C52,C53,C54,C55,C56,C57,C58,C60,C61,C62,C63,C64,C65,C66,C67,C68,C69,C70,C71,C72,C73,C74,C75,C76,C77,C78,C79,C80,C81,C82,C83,C84,C85,C88,C90,C91,C92,C93,C94,C95,C96,C97,D00,D01,D02,D03,D04,D05,D06,D07,D09,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48",NEOP,neoplasia,Neoplasias [tumores] (cap II),Neoplasias [tumores] (cap II),capitulo,0
+903,Doencas do sangue e dos orgaos hematopoeticos e alguns transtornos imunitarios (cap III),"D50,D51,D52,D53,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D80,D81,D82,D83,D84,D86,D89",SANG,sangue,Doencas do sangue e dos orgaos hematopoeticos e alguns transtornos imunitarios (cap III),Doencas do sangue e dos orgaos hematopoeticos e al,capitulo,0
+904,"Doencas endocrinas, nutricionais e metabolicas (cap IV)",E,ENDO,endocrino,"Doencas endocrinas, nutricionais e metabolicas (cap IV)","Doencas endocrinas, nutricionais e metabolicas (ca",capitulo,0
+905,Transtornos mentais e comportamentais (cap V),F,MENT,mental,Transtornos mentais e comportamentais (cap V),Transtornos mentais e comportamentais (cap V),capitulo,0
+906,Doencas do sistema nervoso (cap VI),G,NERV,nervoso,Doencas do sistema nervoso (cap VI),Doencas do sistema nervoso (cap VI),capitulo,0
+907,Doencas do olho e anexos (cap VII),"H00,H01,H02,H03,H04,H05,H06,H10,H11,H13,H15,H16,H17,H18,H19,H20,H21,H22,H25,H26,H27,H28,H30,H31,H32,H33,H34,H35,H36,H40,H42,H43,H44,H45,H46,H47,H48,H49,H50,H51,H52,H53,H54,H55,H57,H58,H59",OLHO,olho,Doencas do olho e anexos (cap VII),Doencas do olho e anexos (cap VII),capitulo,0
+908,Doencas do ouvido e da apofise mastoide (cap VIII),"H60,H61,H62,H65,H66,H67,H68,H69,H70,H71,H72,H73,H74,H75,H80,H81,H82,H83,H90,H91,H92,H93,H94,H95",OUVI,ouvido,Doencas do ouvido e da apofise mastoide (cap VIII),Doencas do ouvido e da apofise mastoide (cap VIII),capitulo,0
+909,Doencas do aparelho circulatorio (cap IX),I,CIRC,circulatorio,Doencas do aparelho circulatorio (cap IX),Doencas do aparelho circulatorio (cap IX),capitulo,0
+910,Doencas do aparelho respiratorio (cap X),J,RESP,respiratorio,Doencas do aparelho respiratorio (cap X),Doencas do aparelho respiratorio (cap X),capitulo,0
+911,Doencas do aparelho digestivo (cap XI),K,DIGE,digestivo,Doencas do aparelho digestivo (cap XI),Doencas do aparelho digestivo (cap XI),capitulo,0
+912,Doencas da pele e do tecido subcutaneo (cap XII),L,PELE,pele,Doencas da pele e do tecido subcutaneo (cap XII),Doencas da pele e do tecido subcutaneo (cap XII),capitulo,0
+913,Doencas do sistema osteomuscular e do tecido conjuntivo (cap XIII),M,OSTE,osteomuscular,Doencas do sistema osteomuscular e do tecido conjuntivo (cap XIII),Doencas do sistema osteomuscular e do tecido conju,capitulo,0
+914,Doencas do aparelho geniturinario (cap XIV),N,GENI,geniturinario,Doencas do aparelho geniturinario (cap XIV),Doencas do aparelho geniturinario (cap XIV),capitulo,0
+915,"Gravidez, parto e puerperio (cap XV)","O00,O01,O02,O03,O04,O05,O06,O07,O08,O10,O11,O12,O13,O14,O15,O16,O20,O21,O22,O23,O24,O25,O26,O28,O29,O30,O31,O32,O33,O34,O35,O36,O40,O41,O42,O43,O44,O45,O46,O47,O48,O60,O61,O62,O63,O64,O65,O66,O67,O68,O69,O70,O71,O72,O73,O74,O75,O80,O81,O82,O83,O84,O85,O86,O87,O88,O89,O90,O91,O92,O94,O95,O96,O97,O98,O99,U88",OBST,obstetricia,"Gravidez, parto e puerperio (cap XV)","Gravidez, parto e puerperio (cap XV)",capitulo,0
+916,Algumas afeccoes originadas no periodo perinatal (cap XVI),P,PERI,perinatal,Algumas afeccoes originadas no periodo perinatal (cap XVI),Algumas afeccoes originadas no periodo perinatal (,capitulo,0
+917,"Malformacoes congenitas, deformidades e anomalias cromossomicas (cap XVII)",Q,CONG,congenito,"Malformacoes congenitas, deformidades e anomalias cromossomicas (cap XVII)","Malformacoes congenitas, deformidades e anomalias",capitulo,0
+918,"Sintomas, sinais e achados anormais de exames clinicos e de laboratorio (cap XVIII)",R,LABO,laboratorial,"Sintomas, sinais e achados anormais de exames clinicos e de laboratorio (cap XVIII)","Sintomas, sinais e achados anormais de exames clin",capitulo,0
+919,"Lesoes, envenenamento e outras consequencias de causas externas (cap XIX)","S,T",EXOG,exogeno,"Lesoes, envenenamento e outras consequencias de causas externas (cap XIX)","Lesoes, envenenamento e outras consequencias de ca",capitulo,0
+920,Causas externas de morbidade e de mortalidade (cap XX),"V,W,X,Y",EXTE,externo,Causas externas de morbidade e de mortalidade (cap XX),Causas externas de morbidade e de mortalidade (cap,capitulo,0
+921,Fatores que influenciam o estado de saude... (cap XXI),Z,FATO,fatores,Fatores que influenciam o estado de saude... (cap XXI),Fatores que influenciam o estado de saude... (cap,capitulo,0
+922,Codigos para propositos especiais (cap XXII),"U04,U80,U81,U89,U99",ESPE,especiais,Codigos para propositos especiais (cap XXII),Codigos para propositos especiais (cap XXII),capitulo,0
