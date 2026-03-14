@@ -1,4 +1,4 @@
-nu_diretriz,no_diretriz,co_cid,sg_pcdt,no_abreviado,no_diretriz_extenso,no_diretriz50,sg_tipo,st_rara
+co_diretriz_cuidado,co_diretriz_cuidado,co_cid,sg_pcdt,no_abreviado,no_diretriz_extenso,no_diretriz50,sg_tipo,st_rara
 1,Acidente Vascular Cerebral Isquêmico Agudo,"I630,I631,I632,I633,I634,I635,I636,I638,I639,I650,I651,I652,I653,I658,I659,I660,I661,I662,I663,I664,I668,I669",AVC,avc_isquem,Trombólise no Acidente Vascular Cerebral (AVC) Isquêmico Agudo,Acidente Vascular Cerebral Isquêmico Agudo,pcdt,0
 2,Acne grave,"L700,L701,L708",ACN,acne,Isotretinoína no tratamento da acne grave,Acne grave,Protocolos,0
 3,Acromegalia,E220,ACRO,acromegali,Acromegalia,Acromegalia,pcdt,1
