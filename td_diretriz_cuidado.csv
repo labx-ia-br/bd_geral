@@ -20,7 +20,7 @@ co_diretriz_cuidado,co_diretriz_cuidado,co_cid,sg_pcdt,no_abreviado,no_diretriz_
 19,Carcinoma de estômago e esôfago,"C150,C151,C152,C153,C154,C155,C158,C159,C160,C161,C162,C163,C164,C165,C166,C168,C169,C170,C171,C172,C173,C178,C179,C18,C180,C181,C182,C183,C184,C185,C186,C187,C188,C189,C19,C20,C268,C474,C481,C493",CEES,c_estomago,Carcinoma de estômago e esôfago,,,0
 20,Carcinoma hepatocelular,C22,CHEP,c_hepatocel,Carcinoma hepatocelular,,,0
 21,Colangite Biliar Primária; Câncer de Fígado,"C220,C221,C222,C223,C224,C227,C229",CFIG,c_figado,Colangite Biliar Primária; Câncer de Fígado,,,1
-22,Comportamento Agressivo no Autismo,"F840,F841,F843,F845,F848",AUT,autismo,Comportamento Agressivo no Transtorno do Espectro do Autismo,Comportamento Agressivo no Autismo,pcdt,0
+22,Comportamento Agressivo no Autismo,"F84,F840,F841,F843,F845,F848",AUT,autismo,Comportamento Agressivo no Transtorno do Espectro do Autismo,Comportamento Agressivo no Autismo,pcdt,0
 23,Câncer de Cabeça e Pescoço,"C00,C01,C02,C03,C04,C05,C06,C09,C10,C11,C12,C13,C14,C32,",CCP,c_cabeca,Câncer de Cabeça e Pescoço,Câncer de Cabeça e Pescoço,pcdt,0
 24,Câncer de Pulmão,"C34,C340,C341,C342,C343,C348,C349",CPUL,c_pulmao,Câncer de Pulmão,Câncer de Pulmão,pcdt,0
 25,Deficiência Intelectual,"F78,F780,F781,F788,F789",DEFI,def_intele,Diagnóstico Etiológico da Deficiência Intelectual,Deficiência Intelectual,Protocolos,0
