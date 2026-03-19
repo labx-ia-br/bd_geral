@@ -11,7 +11,7 @@ co_diretriz_cuidado,co_diretriz_cuidado,co_cid,sg_pcdt,no_abreviado,no_diretriz_
 10,Artrite Psoríaca,"M070,M072,M073",APSO,artrite_ps,Artrite Psoríaca,Artrite Psoríaca,pcdt,0
 11,Artrite Reativa,"M021,M023,M032,M036",AREA,artrite_rea,Artrite Reativa,Artrite Reativa,pcdt,0
 12,Artrite Reumatoide,"M050,M051,M052,M053,M058,M060,M068",AREU,artrite_reu,Artrite Reumatoide,,,0
-13,Asma,"J450,J451,J458,J45",ASMA,asma,Asma,Asma,pcdt,0
+13,Asma,"J450,J451,J458,J45",ASMA,asma,Asma,Asma,pcdt;csap,0
 14,Atrofia Muscular Espinhal,"G120,G121",AME,atrofia,Atrofia Muscular Espinhal 5q Tipo 1,Atrofia Muscular Espinhal,pcdt,1
 15,COVID-19,"B342,U04,U049,U071,U072,U089,U099,U109,U129",COV,covid_19,Diretrizes Brasileiras para Tratamento Hospitalar do Paciente com COVID-19,COVID-19,Diretrizes,0
 16,Carcinoma Diferenciado de Tireoide,C73,CTIR,c_tireoide,Carcinoma Diferenciado de Tireoide,,,0
@@ -27,8 +27,8 @@ co_diretriz_cuidado,co_diretriz_cuidado,co_cid,sg_pcdt,no_abreviado,no_diretriz_
 26,Deficiência de Biotinidase,E889,BIOT,biotinidas,Deficiência de Biotinidase,Deficiência de Biotinidase,pcdt,1
 27,Degeneração Macular Relacionada com a Idade,H353,MACI,macular,Degeneração Macular Relacionada com a Idade (forma neovascular),Degeneração Macular Relacionada com a Idade,pcdt,0
 28,Dermatomiosite e Polimiosite,"M330,M331,M332",DMPO,dermatomio,Dermatomiosite e Polimiosite,Dermatomiosite e Polimiosite,pcdt,1
-29,Diabete Melito Tipo 1,"E100,E101,E102,E103,E104,E105,E106,E107,E108,E109",DM1,diabetes_1,Diabete Melito Tipo 1,Diabete Melito Tipo 1,pcdt,0
-30,Diabete Melito Tipo 2; Retinopatia Diabética,"E10,E11,E112,E113,E114,E115,E116,E117,E118,E119,E12,E13,E14,H360",DM2,diabetes_2,Diabete Melito Tipo 2; Retinopatia Diabética,,,0
+29,Diabete Melito Tipo 1,"E100,E101,E102,E103,E104,E105,E106,E107,E108,E109",DM1,diabetes_1,Diabete Melito Tipo 1,Diabete Melito Tipo 1,pcdt;csap,0
+30,Diabete Melito Tipo 2; Retinopatia Diabética,"E10,E11,E112,E113,E114,E115,E116,E117,E118,E119,E12,E13,E14,H360",DM2,diabetes_2,Diabete Melito Tipo 2; Retinopatia Diabética,,csap,0
 31,Diabetes Insípido,E232,DINS,diabetes_ins,Diabetes Insípido,Diabetes Insípido,pcdt,1
 32,Dislipidemia para a Prevenção de Eventos Cardiov.,"E780,E781,E782,E783,E784,E785,E786,E788",DISL,dislipidem,Dislipidemia para a Prevenção de Eventos Cardiovasculares e Pancreatite,Dislipidemia para a Prevenção de Eventos Cardiov.,pcdt,0
 33,Distonias focais e Espasmo Hemifacial,"G243,G244,G245,G248,G513,G518",DFE,distonias,Distonias e Espasmo Hemifacial,Distonias focais e Espasmo Hemifacial,pcdt,1
@@ -48,7 +48,7 @@ co_diretriz_cuidado,co_diretriz_cuidado,co_cid,sg_pcdt,no_abreviado,no_diretriz_
 47,Dor Crônica,"R521,R522,R52",DCRN,dor_cronic,Dor Crônica,Dor Crônica,pcdt,0
 48,Endometriose,"N800,N801,N802,N803,N804,N805,N808",END,endometrio,Endometriose,Endometriose,pcdt,0
 49,Epidermólise Bolhosa,"L123,Q810,Q811,Q812,Q818,Q819",EPM,epidermoli,Epidermólise Bolhosa Hereditária e Adquirida,Epidermólise Bolhosa,pcdt,1
-50,Epilepsia,"G400,G401,G402,G403,G404,G405,G406,G407,G408,G40",EPI,epilepsia,Epilepsia,Epilepsia,pcdt,0
+50,Epilepsia,"G400,G401,G402,G403,G404,G405,G406,G407,G408,G40",EPI,epilepsia,Epilepsia,Epilepsia,pcdt;csap,0
 51,Esclerose Lateral Amiotrófica,G122,ELA,esclerose_la,Esclerose Lateral Amiotrófica,Esclerose Lateral Amiotrófica,pcdt,1
 52,Esclerose Múltipla,G35,EM,esclerose_m,Esclerose Múltipla,Esclerose Múltipla,pcdt,1
 53,Esclerose Sistêmica,"M340,M341,M348",ESC,esclerose_s,Esclerose Sistêmica,Esclerose Sistêmica,pcdt,1
@@ -125,6 +125,30 @@ co_diretriz_cuidado,co_diretriz_cuidado,co_cid,sg_pcdt,no_abreviado,no_diretriz_
 125,Uveítes Não-Infecciosas,"H150,H201,H301,H302,H308",UVE,uveite,Uveítes Não-Infecciosas,Uveítes Não-Infecciosas,pcdt,1
 126,Síndrome de Down,"Q90,Q900,Q901,Q902,Q909",T21,sin_Down,Síndrome de Down (trissomia do cromossomo XXI),,,0
 127,Doença de Huntington,G10,HUNT,Huntington,Doença de Huntington,,,1
+500,Tétano,"A33,A34,A35",TETA,tetano,Tétano,Tétano,csap,0
+501,Parotidite,B26,PARO,parotidite,Parotidite Infecciosa (Caxumba),Parotidite,csap,0
+502,Rubéola,B06,RUBE,rubeola,Rubéola,Rubéola,csap,0
+503,Sarampo,B05,SARA,sarampo,Sarampo,Sarampo,csap,0
+504,Febre Amarela,A95,FEAM,f_amarela,Febre Amarela,Febre Amarela,csap,0
+505,Hepatite B,B16,HEPB,hep_b,Hepatite B,Hepatite B,csap,0
+506,Meningite por Haemophilus,G000,MENH,mening_hae,Meningite por Haemophilus,Meningite por Haemophilus,csap,0
+507,Meningite Tuberculosa,A170,MENT,mening_tub,Meningite Tuberculosa,Meningite Tuberculosa,csap,0
+508,Febre Reumática,"I00,I01,I02",FREU,feb_reumat,Febre Reumática Aguda,Febre Reumática,csap,0
+509,Malária,"B50,B51,B52,B53,B54",MALA,malaria,Malária,Malária,csap,0
+510,Ascaridíase,B77,ASCA,ascaridias,Ascaridíase,Ascaridíase,csap,0
+511,Gastroenterites Infecciosas e Complicações,"A00,A01,A02,A03,A04,A05,A06,A07,A08,A09,E86",GAST,gastroent,Gastroenterites Infecciosas e Complicações,Gastroenterites,csap,0
+512,Anemia por Deficiência de Ferro,D50,ANEM,anemia_fer,Anemia por Deficiência de Ferro,Anemia,csap,0
+513,Deficiências Nutricionais,"E40,E41,E42,E43,E44,E45,E46,E50,E51,E52,E53,E54,E55,E56,E57,E58,E59,E60,E61,E62,E63,E64",NUTR,desnutri,Deficiências Nutricionais e Desnutrição,Deficiências Nutricionais,csap,0
+514,Infecções de Ouvido Nariz e Garganta,"H66,J00,J01,J02,J03,J06,J31",ORL,infec_orl,Infecções de Ouvido Nariz e Garganta,Infecções ONG,csap,0
+515,Pneumonias Bacterianas,"J13,J14,J153,J154,J158,J159,J181",PNEU,pneumo_bac,Pneumonias Bacterianas,Pneumonias Bacterianas,csap,0
+516,Doenças Pulmonares (DPOC/Bronquite),"J20,J21,J40,J41,J42,J43,J47,J44",PULM,doenc_pulm,Doenças Pulmonares Crônicas e Agudas,Doenças Pulmonares,csap,0
+517,Hipertensão,"I10,I11",HIPT,hipert_art,Hipertensão Essencial e Cardiopatia Hipertensiva,Hipertensão,csap,0
+518,Angina Pectoris,I20,ANGI,angina_pec,Angina Pectoris,Angina,csap,0
+519,Insuficiência Cardíaca,"I50,J81",INSC,insuf_card,Insuficiência Cardíaca e Edema Agudo de Pulmão,Insuficiência Cardíaca,csap,0
+520,Infecção no Rim e Trato Urinário,"N10,N11,N12,N30,N34,N390",URIN,infec_urin,Infecção no Rim e Trato Urinário,Infecção Urinária,csap,0
+521,Infecção da Pele e Tecido Subcutâneo,"A46,L01,L02,L03,L04,L08",PELE,infec_pele,Infecção da Pele e Tecido Subcutâneo,Infecção de Pele,csap,0
+522,Doença Inflamatória Órgãos Pélvicos Femininos,"N70,N71,N72,N73,N75,N76",PELV,inflam_pel,Doença Inflamatória dos Órgãos Pélvicos Femininos,DIP Feminina,csap,0
+523,Úlcera Gastrointestinal,"K25,K26,K27,K28,K920,K921,K922",ULCE,ulcera_gas,Úlcera Gastrointestinal e Hemorragias,Úlcera Gastrointestinal,csap,0
 600,Doenças raras,"A04,A05,A20,A33,A82,C220,C221,C222,C223,C224,C227,C229,C450,C459,C710,C711,C712,C713,C714,C715,C716,C717,C718,C719,C810,C811,C812,C813,C817,C819,C820,C821,C822,C827,C829,C833,C835,C910,C844,C915,C900,C901,C902,D472,C920,C921,C923,C924,C925,C927,C930,C931,C937,C940,C942,C943,D460,D461,D464,D467,D590,D591,D460,D461,D467,D600,D608,D610,D611,D612,D613,D618,D70,Z948,D595,D66,D683,D693,D721,D800,D801,D803,D805,D806,D807,D808,D830,D832,D838,D841,E030,E031,E200,E201,E208,E892,E220,E230,E233,E271,E272,E273,E274,E232,E250,E700,E701,E70,E721,E740,E752,E760,E761,E762,E830,E831,T454,E840,E841,E848,E84,E851,E889,G10,G120,G121,G122,G243,G244,G245,G248,G513,G518,G35,G610,G700,H150,H201,H301,H302,H308,I270,I272,I278,J848,K754,K860,K861,K903,L123,Q810,Q811,Q812,Q818,Q819,M080,M081,M082,M083,M084,M088,M089,M330,M331,M332,M340,M341,M348,M880,M888,N040,N041,N042,N043,N044,N045,N046,N047,N048,N049,P35,Q780,Q800,Q801,Q802,Q803,Q808,Q809,Q960,Q961,Q962,Q963,Q964,Q968,T860",RARA,raras,Doenças raras,Doenças raras,,
 601,Acidente de Trabalho com Material Biológico,Z20,ACBI,ACBI,Acidente de Trabalho com Material Biológico,Acidente de Trabalho com Material Biológico,sinan,0
 602,Acidente de Trabalho Grave,Y96,ACGR,ACGR,Acidente de Trabalho Grave,Acidente de Trabalho Grave,sinan,0
@@ -135,10 +159,10 @@ co_diretriz_cuidado,co_diretriz_cuidado,co_cid,sg_pcdt,no_abreviado,no_diretriz_
 608,Doença de Chagas,"B57,B570,B571,B572,B573,B574,B575,K231,K931",CHA,chagas,Doença de Chagas,Doença de Chagas,pcdt,0
 609,Chikungunya e outras febres virais,A92,CHIK,CHIK,Febre de Chikungunya,Febre de Chikungunya,sinan,0
 610,Cólera,A00,COLE,COLE,Cólera,Cólera,sinan,0
-611,Coqueluche,A37,COQU,COQU,Coqueluche,Coqueluche,sinan,0
+611,Coqueluche,A37,COQU,COQU,Coqueluche,Coqueluche,sinan;csap,0
 613,Dengue,"A90,A91",DENG,DENG,Dengue,Dengue,sinan,0
 614,Dermatoses Ocupacionais,"L23,L24,L25,L30",DERM,DERM,Dermatoses Ocupacionais,Dermatoses Ocupacionais,sinan,0
-615,Difteria,A36,DIFT,DIFT,Difteria,Difteria,sinan,0
+615,Difteria,A36,DIFT,DIFT,Difteria,Difteria,sinan;csap,0
 616,Esquistossomose,B65,ESQU,ESQU,Esquistossomose,Esquistossomose,sinan,0
 617,Febre Maculosa,A77,FMAC,FMAC,Febre Maculosa,Febre Maculosa,sinan,0
 618,Febe Tifóide,A01,FTIF,FTIF,Febe Tifóide,Febe Tifóide,sinan,0
@@ -164,12 +188,12 @@ co_diretriz_cuidado,co_diretriz_cuidado,co_cid,sg_pcdt,no_abreviado,no_diretriz_
 639,Rotavírus,A08,ROTA,ROTA,Rotavírus,Rotavírus,sinan,0
 640,Surto de Doenças Transmitidas por Alimentos,"A00,A01,A02,A03,A04,A05,A08,A09,B15,B16,B17,B18,B19,K52,T62,T65",SDTA,SDTA,Surto de Doenças Transmitidas por Alimentos,Surto de Doenças Transmitidas por Alimentos,sinan,0
 641,Sífilis Adquirida,"A50,A51,A52,A53",SIFA,SIFA,Sífilis Adquirida,Sífilis Adquirida,sinan,0
-642,Sífilis Congênita ,A50,SIFC,SIFC,Sífilis Congênita ,Sífilis Congênita,sinan,0
+642,Sífilis Congênita ,A50,SIFC,SIFC,Sífilis Congênita ,Sífilis Congênita,sinan;csap,0
 644,Síndrome da Rubéola Congênita,P35,SRC,SRC,Síndrome da Rubéola Congênita,Síndrome da Rubéola Congênita,sinan,1
 645,Tétano Acidental,A35,TETA,TETA,Tétano Acidental,Tétano Acidental,sinan,0
 646,Tétano Neonatal,A33,TETN,TETN,Tétano Neonatal,Tétano Neonatal,sinan,1
 647,Toxoplasmose,"B58,P371",TOXC,TOXC,Toxoplasmose,Toxoplasmose Congênita,sinan,0
-650,Tuberculose,"A15,A16,A17,A18,A19,B90",TUBE,TUBE,Tuberculose,Tuberculose,sinan,0
+650,Tuberculose,"A15,A16,A17,A18,A19,B90",TUBE,TUBE,Tuberculose,Tuberculose,sinan;csap,0
 651,Varicela,B01,VARC,VARC,Varicela,Varicela,sinan,0
 652,Violência Interpessoal e Autoprovocada,"X85,X86,X87,X88,X89,X90,X91,X92,X93,X94,X95,X96,X97,X98,X99,Y00,Y01,Y02,Y03,Y04,Y05,Y06,Y07,Y08,Y09",VIOL,VIOL,Violência Interpessoal e Autoprovocada,Violência Interpessoal e Autoprovocada,sinan,0
 653,Doença pelo Vírus Zika,A92,Z\IKA,ZIKA,Doença pelo Vírus Zika,Doença pelo Vírus Zika,sinan,0
