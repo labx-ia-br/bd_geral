@@ -1,0 +1,61 @@
+id,Formulário,Módulo,Questão,Domínio,Obrigatoriedade
+A101,Formulário A,Módulo 1,SES:,AC; AL; AM; AP; BA; CE; DF; ES; GO; MA; MG; MS; MT; PA; PB; PE; PI; PR; RJ; RN; RO; RR; RS; SC; SE; SP; TO,*
+A102,Formulário A,Módulo 1,Relator,texto livre,*
+A103,Formulário A,Módulo 1,e-mail,e-mail válido,*
+A104,Formulário A,Módulo 1,Coordenador,texto livre,*
+A105,Formulário A,Módulo 1,e-mail,e-mail válido,*
+A106,Formulário A,Módulo 1,"Atividade: Com base nas discussões, quais fragilidades relacionadas à organização da rede e à regulação do acesso o grupo identifica como presentes na realidade do seu estado?","[A106a] Fragilidade na coordenação do cuidado pela APS; [A106b] Ausência ou baixa utilização de protocolos clínicos e de acesso; [A106c] Fragmentação da Rede de Atenção à Saúde (RAS); [A106d] Falhas na comunicação e na articulação entre os pontos de atenção; [A106e] Dificuldades na definição de fluxos assistenciais e responsabilidades; [A106f] Problemas na regulação do acesso (ex.: filas desorganizadas, encaminhamentos inadequados)",*
+A107a,Formulário A,Módulo 1,"Quais desafios o grupo identifica como prioritários no sentido de fortalecer, em seu estado, o papel dos pontos de atenção na regulação do acesso e sua integração em rede? (Relatar desafio prioritário 1)",texto livre,*
+A107b,Formulário A,Módulo 1,"Quais desafios o grupo identifica como prioritários no sentido de fortalecer, em seu estado, o papel dos pontos de atenção na regulação do acesso e sua integração em rede? (Relatar desafio prioritário 2)",texto livre,*
+A107c,Formulário A,Módulo 1,Informações complementares (se houver).,texto livre,
+B201,Formulário B,Módulo 2,SES:,AC; AL; AM; AP; BA; CE; DF; ES; GO; MA; MG; MS; MT; PA; PB; PE; PI; PR; RJ; RN; RO; RR; RS; SC; SE; SP; TO,*
+B202,Formulário B,Módulo 2,A Secretaria Estadual de Saúde coordena efetivamente o processo de planejamento regional?,Sim; Parcialmente; Não,*
+B203,Formulário B,Módulo 2,A regulação atua de forma integrada ao planejamento?,Sim; Parcialmente; Não,*
+B204,Formulário B,Módulo 2,A estrutura regional da SES atua na articulação e no apoio técnico aos municípios nas ações de regulação?,Sim; Parcialmente; Não,*
+B205,Formulário B,Módulo 2,"A CIB pactua diretrizes, fluxos, responsabilidades e critérios de acesso no âmbito estadual?",Sim; Parcialmente; Não,*
+B206,Formulário B,Módulo 2,"As CIR pactuam diretrizes, fluxos e responsabilidades no espaço regional?",Sim; Parcialmente; Não,*
+B207,Formulário B,Módulo 2,Existem comitês técnicos que monitoram o PRI e a regulação com base em dados?,Sim; Parcialmente; Não,*
+B208,Formulário B,Módulo 2,A regulação estadual está articulada ao planejamento regional?,Sim; Parcialmente; Não,*
+B209,Formulário B,Módulo 2,"A programação regional de consultas, exames e internações orienta, na prática, as decisões da regulação do acesso no estado?",Sim; Parcialmente; Não,*
+C201,Formulário C,Módulo 2,SES:,AC; AL; AM; AP; BA; CE; DF; ES; GO; MA; MG; MS; MT; PA; PB; PE; PI; PR; RJ; RN; RO; RR; RS; SC; SE; SP; TO,*
+C202,Formulário C,Módulo 2,Relator,texto livre,*
+C203,Formulário C,Módulo 2,e-mail,e-mail válido,*
+C204,Formulário C,Módulo 2,Coordenador,texto livre,*
+C205,Formulário C,Módulo 2,e-mail,e-mail válido,*
+C206,Formulário C,Módulo 2,"Atividade: Com base nas discussões, quais fragilidades relacionadas à governança interfederativa, ao planejamento regional e ao papel coordenador da SES o grupo identifica como presente na realidade do seu estado?",[C206a] Fragilidade na coordenação estadual do planejamento regional; [C206b] Baixa integração entre regulação e planejamento; [C206c] CIB/CIR com baixa capacidade deliberativa ou foco apenas homologatório; [C206d] Fragilidade na pactuação de fluxos assistenciais e responsabilidades; [C206e] Ausência ou baixa utilização da programação regional; [C206f] Baixa capacidade das regionais de saúde,*
+C207a,Formulário C,Módulo 2,"A partir das fragilidades identificadas, quais desafios estruturantes devem ser priorizados pelo estado para fortalecer a governança interfederativa e a coordenação da regulação? (Relatar desafio prioritário 1)",texto livre,*
+C207b,Formulário C,Módulo 2,"A partir das fragilidades identificadas, quais desafios estruturantes devem ser priorizados pelo estado para fortalecer a governança interfederativa e a coordenação da regulação? (Relatar desafio prioritário 2)",texto livre,*
+C207c,Formulário C,Módulo 2,Informações complementares (se houver),texto livre,
+D301,Formulário D,Módulo 3,SES:,AC; AL; AM; AP; BA; CE; DF; ES; GO; MA; MG; MS; MT; PA; PB; PE; PI; PR; RJ; RN; RO; RR; RS; SC; SE; SP; TO,*
+D302,Formulário D,Módulo 3,"Os pontos de atenção da rede estadual (atenção primária, hospitais próprios da administração direta, OSS, filantrópicos e privados) possuem instrumentos formais de contratualização?",Sim; Parcialmente; Não,*
+D303,Formulário D,Módulo 3,O perfil e o papel assistencial dos prestadores estão claramente integrados ao desenho e aos fluxos das Redes de Atenção à Saúde (RAS) da sua macrorregião?,Sim; Parcialmente; Não,*
+D304,Formulário D,Módulo 3,"As metas e indicadores definidos nos contratos induzem efetivamente melhoria do cuidado (valor em saúde), e não apenas justificam repasses financeiros?",Sim; Parcialmente; Não,*
+D305,Formulário D,Módulo 3,"Existe um processo de monitoramento e avaliação de metas instituído que seja contínuo, dinâmico e padronizado para os prestadores?",Sim; Parcialmente; Não,*
+D306,Formulário D,Módulo 3,"As metas e indicadores são mensuráveis, úteis e de fácil acompanhamento na prática?",Sim; Parcialmente; Não,*
+D307,Formulário D,Módulo 3,"A Regulação do Acesso atua em sinergia com a contratualização, orientando ajustes com base nas filas e demandas reais?",Sim; Parcialmente; Não,*
+D308,Formulário D,Módulo 3,"O modelo de financiamento e alocação de recursos considera o desempenho da unidade (eficiência), indo além do pagamento automático por produção?",Sim; Parcialmente; Não,*
+D309,Formulário D,Módulo 3,"As informações de execução e as falhas dos contratos são transparentes e submetidas a controle/auditoria, com capacidade de gerar mudanças reais diante de problemas recorrentes?",Sim; Parcialmente; Não,*
+D310,Formulário D,Módulo 3,O principal problema da contratualização hoje é:,Planejamento; Modelo contratual; Monitoramento; Integração; Governança/decisão,*
+E301,Formulário E,Módulo 3,SES:,AC; AL; AM; AP; BA; CE; DF; ES; GO; MA; MG; MS; MT; PA; PB; PE; PI; PR; RJ; RN; RO; RR; RS; SC; SE; SP; TO,*
+E302,Formulário E,Módulo 3,Relator,texto livre,*
+E303,Formulário E,Módulo 3,e-mail,e-mail válido,*
+E304,Formulário E,Módulo 3,Coordenador,texto livre,*
+E305,Formulário E,Módulo 3,e-mail,e-mail válido,*
+E306,Formulário E,Módulo 3,"Para o prestador abaixo, indique qual instrumento é utilizado na prática: Unidades próprias",texto livre,*
+E307,Formulário E,Módulo 3,"Para o prestador abaixo, indique qual instrumento é utilizado na prática: OSS",texto livre,*
+E308,Formulário E,Módulo 3,"Para o prestador abaixo, indique qual instrumento é utilizado na prática: Filantrópicos",texto livre,*
+E309,Formulário E,Módulo 3,"Para o prestador abaixo, indique qual instrumento é utilizado na prática: Privados lucrativos",texto livre,*
+E310,Formulário E,Módulo 3,"Para o prestador abaixo, indique qual instrumento é utilizado na prática: Consórcios",texto livre,*
+E311,Formulário E,Módulo 3,"Atividade : Com base nas discussões e, considerando a realidade do estado, quais fragilidades relacionadas à contratualização dos pontos de atenção à saúde o grupo identifica na SES?","[E311a] Contratos não alinhados às necessidades de saúde da população, ao planejamento regional e ao papel dos pontos de atenção na Rede de Atenção à Saúde (RAS); [E311b] Predomínio de lógica contratual voltada à produção (quantidade), ao faturamento e à conformidade documental, com baixa indução de resultados em saúde; [E311c] Contratualização restrita a prestadores filantrópicos e privados, sem abrangência de todos os pontos de atenção da rede; [E311d] Serviços próprios financiados por orçamento não submetidos a instrumentos formais de contratualização, com ausência de metas e indicadores pactuados; [E311e] Ausência de estratégias para fomentar a contratualização dos serviços de Atenção Primária à Saúde (APS) nos territórios.; [E311f] Baixa integração entre contratualização, regulação do acesso e planejamento regional; [E311g] Fragilidade nos processos de monitoramento e avaliação dos contratos, com baixa utilização de metas, indicadores e resultados para tomada de decisão",*
+E312a,Formulário E,Módulo 3,"A partir das fragilidades identificadas, quais desafios devem ser priorizados para qualificar a contratualização como instrumento da regulação? (Relatar desafio prioritário 1)",texto livre,*
+E312b,Formulário E,Módulo 3,"A partir das fragilidades identificadas, quais desafios devem ser priorizados para qualificar a contratualização como instrumento da regulação? (Relatar desafio prioritário 2)",texto livre,*
+E312c,Formulário E,Módulo 3,Informações complementares (se houver),texto livre,
+F401,Formulário F,Módulo 4,SES:,AC; AL; AM; AP; BA; CE; DF; ES; GO; MA; MG; MS; MT; PA; PB; PE; PI; PR; RJ; RN; RO; RR; RS; SC; SE; SP; TO,*
+F402,Formulário F,Módulo 4,Relator,texto livre,*
+F403,Formulário F,Módulo 4,e-mail,e-mail válido,*
+F404,Formulário F,Módulo 4,Coordenador,texto livre,*
+F405,Formulário F,Módulo 4,e-mail,e-mail válido,*
+F406,Formulário F,Módulo 4,"Atividade: Com base nas discussões e, considerando a realidade do estado, quais fragilidades relacionadas à organização da regulação do acesso (complexos reguladores, gestão das listas de espera, transporte sanitário e gestão Informação) o grupo identifica na SES?","[F406a] Baixa integração e articulação entre os complexos reguladores nas esferas estadual, regional e municipal; [F406b] Capacidade operacional limitada dos complexos reguladores para coordenar o acesso de forma oportuna e equitativa; [F406c] Ausência ou insuficiência de mecanismos de transparência das listas de espera, incluindo a disponibilização de informações ao usuário e o monitoramento de tempos médios de espera; [F406d] Fragilidade na definição e na implementação de fluxos assistenciais que orientem, de forma integrada ao planejamento regional, a utilização do transporte sanitário; [F406e] Ausência ou baixa efetividade da gestão integrada da informação da regulação do acesso; [F406f] Baixa integração e interoperabilidade entre os sistemas de informação utilizados pelos diferentes pontos da RAS; [F406g] Uso limitado de dados e informações da regulação para subsidiar o planejamento, a tomada de decisão e o monitoramento da RAS",*
+F407a,Formulário F,Módulo 4,"A partir das fragilidades identificadas e da discussão do grupo sobre os temas (i) complexos reguladores, (ii) gestão das listas de espera, (iii) transporte sanitário e (iv) gestão da informação da regulação do acesso, cite os desafios estruturantes que devem ser priorizados para qualificar a regulação do acesso no estado? (Relatar desafio 1 prioritário por tema)",texto livre,*
+F407b,Formulário F,Módulo 4,"A partir das fragilidades identificadas e da discussão do grupo sobre os temas (i) complexos reguladores, (ii) gestão das listas de espera, (iii) transporte sanitário e (iv) gestão da informação da regulação do acesso, cite os desafios estruturantes que devem ser priorizados para qualificar a regulação do acesso no estado? (Relatar desafio 1 prioritário por tema)",texto livre,*
+F407c,Formulário F,Módulo 4,Informações complementares (se houver),texto livre,
