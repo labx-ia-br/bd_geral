@@ -1,3 +1,55 @@
+sg_sistema,sg_subsistema,no_subsistema
+CIHA,CIHA,Sistema de Comunicação de Informação Hospitalar e Ambulatorial
+CNES,DC,Dados Complementares
+CNES,EE,Estabelecimento de Ensino
+CNES,EP,Equipes
+CNES,EQ,Equipamentos
+CNES,GM,Gestão e Metas
+CNES,HB,Habilitação
+CNES,IN,Incentivos
+CNES,LT,Leitos
+CNES,PF,Profissional
+CNES,RC,Regra Contratual
+CNES,SR,Serviço Especializado
+CNES,ST,Estabelecimentos
+SIA,AB,Laudo de Acompanhamento a Cirurgia Bariátrica
+SIA,ACF,Confeção de Fístula Arteriovenosa
+SIA,AD,Laudos Diversos
+SIA,AM,Laudo de Medicamentos
+SIA,AQ,Laudo de Quimioterapia
+SIA,AR,Laudo de Radioterapia
+SIA,ATD,Tratamento Dialítico
+SIA,BI,Boletim Individual
+SIA,PA,Produção Ambulatorial
+SIA,PS,Psicossocial
+SIH,RD,Reduzido de AIH
+SIH,RJ,AIH rejeitada
+SIM,DO,Declarações de Óbitos
+SIM,DOE,Declarações de Óbitos por causas externas
+SIM,DOF,Declarações de Óbitos Fetais
+SIM,DOI,Declarações de Óbitos infantis
+SIM,DOM,Declarações de Óbitos maternos
+SINAN,ANIM,Animais Peçonhentos
+SINAN,CHAG,Doença de Chagas
+SINAN,CHIK,Chikungunya
+SINAN,COQU,Coqueluche
+SINAN,DENG,Dengue e Chikungunya
+SINAN,ESQU,Esquistossomose
+SINAN,FMAC,Febre Maculosa
+SINAN,FTIF,Febre Tifóide
+SINAN,HANS,Hanseníase
+SINAN,IEXO,Intoxicação exógena
+SINAN,LEIV,Leishmaniose Visceral
+SINAN,LEPT,Leptospirose
+SINAN,LTAN,Leishimaniose Tegumentar Americana
+SINAN,MALA,Malária
+SINAN,MENI,Meningite
+SINAN,TETA,Tetano Acidental
+SINAN,TUBE,Tuberculose
+SINAN,VIOL,Violência Interpessoal ou Autoprovocada
+SINAN,ZIKA,Zika
+
+
 sistema,subsistema,nome,
 CIH,CR,Sistema de Comunicação de Informação Hospitalar,
 CIH,DAD,,
